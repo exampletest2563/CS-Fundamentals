@@ -1338,7 +1338,3993 @@ Creating the most detailed C# course ever made involves covering a wide range of
 
 By covering these sections comprehensively, this C# course would provide learners with in-depth knowledge and practical skills, preparing them for various real-world applications and career paths in software development.
 
-# 
+# Daily YouTube Niche Ideas
+
+Creating high-quality daily YouTube content can be challenging, but there are several niches that lend themselves well to this frequency and ease of production. Here are some ideas:
+
+1. **Daily Vlogs**:
+   - Share your daily life, routines, and personal experiences. Focus on storytelling and engaging visuals to keep your audience hooked.
+
+2. **Short Educational Videos**:
+   - Create quick, informative videos on a specific subject you’re passionate about. This could be science facts, historical events, language learning tips, or tech explanations.
+
+3. **DIY and Craft Tutorials**:
+   - Show how to create simple crafts, home decor, or quick DIY projects. These are typically short, easy to produce, and have a dedicated audience.
+
+4. **Daily Challenges**:
+   - Participate in daily challenges and document your progress. This could be fitness challenges, language learning, cooking new recipes, or trying new activities.
+
+5. **Tech Reviews and Unboxings**:
+   - Review gadgets, apps, and tech accessories. Unboxing videos are popular and often don’t require extensive editing.
+
+6. **Cooking and Recipe Videos**:
+   - Share quick and easy recipes, cooking tips, or meal prep ideas. These videos can be straightforward to film and edit.
+
+7. **Productivity and Motivation Tips**:
+   - Offer daily tips on productivity, time management, or personal development. Short, actionable advice can attract a dedicated audience.
+
+8. **Travel Vlogs**:
+   - Document your travels and share daily highlights, tips, and experiences. This can be done even within your local area, exploring new places or hidden gems.
+
+9. **Gaming Highlights and Reviews**:
+   - Share daily gaming sessions, reviews, and tips. This niche has a massive audience and can be very engaging.
+
+10. **Book Reviews and Recommendations**:
+    - Review books, share reading lists, and discuss literary topics. This niche attracts a dedicated and thoughtful audience.
+
+11. **Health and Wellness Tips**:
+    - Share daily tips on fitness, mental health, nutrition, and overall wellness. Simple routines and advice can be highly engaging.
+
+12. **Pet Care and Training**:
+    - Offer tips on pet care, training, and share daily life with your pets. Pet videos are popular and often go viral.
+
+13. **News Commentary**:
+    - Provide daily commentary on current events, trends, or niche news topics. This can be a mix of informative and opinion-based content.
+
+14. **Minimalism and Decluttering**:
+    - Share daily tips on living a minimalist lifestyle, decluttering, and organizing. This niche appeals to a growing audience interested in simple living.
+
+15. **Language Learning**:
+    - Document your journey learning a new language, share tips, and daily practice routines. This can be very relatable and inspiring for viewers.
+
+Choosing a niche that aligns with your interests and expertise is key to maintaining consistency and quality.
+
+# Earn Money Easily
+
+Earning money easily often implies minimal effort or quick results, but it's essential to approach this with caution, as many "get rich quick" schemes can be risky or fraudulent. Here are some legitimate ways to earn money with relatively low effort:
+
+1. **Freelance Work**: Offer your skills on platforms like Upwork, Fiverr, or Freelancer. Writing, graphic design, and programming are in high demand.
+
+2. **Online Surveys and Market Research**: Companies like Swagbucks, Survey Junkie, and Vindale Research pay for your opinions.
+
+3. **Sell Unused Items**: Platforms like eBay, Craigslist, or Facebook Marketplace can help you sell items you no longer need.
+
+4. **Cashback and Rewards Apps**: Use apps like Rakuten, Ibotta, or Honey to get cashback on your purchases.
+
+5. **Gig Economy Jobs**: Sign up for gig platforms like Uber, Lyft, or DoorDash if you have a car, or TaskRabbit for various small tasks.
+
+6. **Affiliate Marketing**: Promote products or services online through affiliate programs (Amazon Associates, ShareASale) and earn commissions.
+
+7. **Online Tutoring**: Tutor students in subjects you excel at via platforms like Chegg, Tutor.com, or VIPKid.
+
+8. **Rent Out Your Space**: If you have extra space, consider renting it out on Airbnb or other vacation rental sites.
+
+9. **Investing**: Though not without risk, investing in stocks, bonds, or real estate can generate passive income over time.
+
+10. **Content Creation**: Start a blog, YouTube channel, or podcast and monetize through ads, sponsorships, or merchandise.
+
+Remember, while these methods can provide relatively easy ways to earn money, they often require some initial effort or investment. Always research thoroughly to avoid scams and understand the risks involved.
+
+# How to Be Famous
+
+Becoming famous often involves a combination of talent, hard work, strategic planning, and sometimes a bit of luck. Here are some steps that can help you on the path to fame:
+
+1. **Identify Your Talent or Niche**:
+   - Determine what you are passionate about and where your skills lie. This could be anything from music, acting, writing, sports, entrepreneurship, or even a unique hobby.
+
+2. **Hone Your Skills**:
+   - Dedicate time to improving your craft. Take classes, practice regularly, and seek feedback to become the best you can be in your chosen field.
+
+3. **Create High-Quality Content**:
+   - Whether it’s music, videos, art, or writing, ensure that your work is of high quality. This will help you stand out from the crowd.
+
+4. **Utilize Social Media**:
+   - Platforms like Instagram, TikTok, YouTube, and Twitter are powerful tools for gaining visibility. Regularly post engaging content and interact with your audience.
+
+5. **Network**:
+   - Connect with people in your industry. Attend events, join clubs or online communities, and collaborate with others. Networking can open doors to new opportunities.
+
+6. **Be Consistent**:
+   - Regularly produce and share content. Consistency helps keep you in the minds of your audience and builds a loyal following.
+
+7. **Engage with Your Audience**:
+   - Respond to comments, messages, and feedback. Building a relationship with your audience can foster loyalty and encourage word-of-mouth promotion.
+
+8. **Leverage Media and Press**:
+   - Try to get featured in newspapers, magazines, blogs, and podcasts. Media exposure can significantly increase your visibility.
+
+9. **Be Unique**:
+   - Find a way to differentiate yourself from others. A unique style, perspective, or approach can make you more memorable.
+
+10. **Stay Persistent and Resilient**:
+    - Fame often requires time and effort. There will be setbacks, but staying persistent and adapting to challenges is key.
+
+Remember that fame comes with its own set of challenges, so it's important to be prepared for both the positives and negatives that come with it.
+
+# Class Members Overview
+
+### Chapter: Class Members In C#
+
+#### Introduction
+
+In C#, a class is a blueprint for creating objects, defining the properties and behaviors that those objects will have. The members of a class are the building blocks that define its state and behavior. Class members include fields, properties, methods, constructors, events, and more. This chapter delves into each type of class member, providing detailed explanations and examples to help you understand their roles and how to use them effectively.
+
+#### Fields
+
+Fields are variables declared directly in a class. They represent the data that an object holds.
+
+**Example:**
+```csharp
+public class Car
+{
+    // Field
+    public string color;
+    public int speed;
+}
+```
+
+Fields can have access modifiers to control their visibility. Common access modifiers include `public`, `private`, `protected`, and `internal`.
+
+**Example with access modifiers:**
+```csharp
+public class Car
+{
+    // Private field
+    private string color;
+    
+    // Public field
+    public int speed;
+}
+```
+
+#### Properties
+
+Properties provide a flexible mechanism to read, write, or compute the values of private fields. Properties can include logic for validation and encapsulation.
+
+**Example:**
+```csharp
+public class Car
+{
+    private string color;
+    
+    // Property
+    public string Color
+    {
+        get { return color; }
+        set { color = value; }
+    }
+}
+```
+
+**Auto-Implemented Properties:**
+For simple scenarios where no additional logic is needed, auto-implemented properties can be used.
+
+**Example:**
+```csharp
+public class Car
+{
+    public string Color { get; set; }
+}
+```
+
+#### Methods
+
+Methods define the actions that an object can perform. They can take parameters, return values, and contain logic to manipulate fields and properties.
+
+**Example:**
+```csharp
+public class Car
+{
+    private int speed;
+
+    // Method
+    public void Accelerate(int increase)
+    {
+        speed += increase;
+    }
+
+    public int GetSpeed()
+    {
+        return speed;
+    }
+}
+```
+
+#### Constructors
+
+Constructors are special methods called when an instance of a class is created. They initialize objects and set initial values for fields or properties.
+
+**Example:**
+```csharp
+public class Car
+{
+    public string Color { get; set; }
+    public int Speed { get; set; }
+
+    // Constructor
+    public Car(string color, int speed)
+    {
+        Color = color;
+        Speed = speed;
+    }
+}
+```
+
+#### Events
+
+Events provide a way for objects to notify other objects when something interesting happens. They are typically used in conjunction with delegates.
+
+**Example:**
+```csharp
+public class Car
+{
+    public event Action OnSpeedChanged;
+
+    private int speed;
+    public int Speed
+    {
+        get { return speed; }
+        set
+        {
+            if (speed != value)
+            {
+                speed = value;
+                OnSpeedChanged?.Invoke();
+            }
+        }
+    }
+}
+```
+
+#### Indexers
+
+Indexers allow instances of a class to be indexed like arrays. They are defined using the `this` keyword.
+
+**Example:**
+```csharp
+public class Garage
+{
+    private Car[] cars = new Car[10];
+
+    // Indexer
+    public Car this[int index]
+    {
+        get { return cars[index]; }
+        set { cars[index] = value; }
+    }
+}
+```
+
+#### Static Members
+
+Static members belong to the class itself rather than to any specific object. They are shared among all instances of the class.
+
+**Example:**
+```csharp
+public class Car
+{
+    public static int NumberOfWheels = 4;
+
+    public static void DisplayWheels()
+    {
+        Console.WriteLine("A car has " + NumberOfWheels + " wheels.");
+    }
+}
+```
+
+#### Nested Types
+
+A class can contain other classes, enums, interfaces, or structs as its members. These are called nested types.
+
+**Example:**
+```csharp
+public class Car
+{
+    public class Engine
+    {
+        public int HorsePower { get; set; }
+    }
+
+    public Engine CarEngine { get; set; }
+
+    public Car(int horsePower)
+    {
+        CarEngine = new Engine { HorsePower = horsePower };
+    }
+}
+```
+
+#### Partial Classes
+
+Partial classes allow you to split the definition of a class across multiple files. This is useful for organizing code, especially in large projects.
+
+**Example:**
+File 1:
+```csharp
+public partial class Car
+{
+    public string Color { get; set; }
+}
+```
+
+File 2:
+```csharp
+public partial class Car
+{
+    public int Speed { get; set; }
+}
+```
+
+#### Conclusion
+
+Understanding class members in C# is crucial for designing and implementing robust, scalable, and maintainable applications. This chapter covered fields, properties, methods, constructors, events, indexers, static members, nested types, and partial classes. By mastering these components, you can create well-structured classes that effectively encapsulate data and behavior.
+
+### Chapter: Extension Methods In C#
+
+#### Introduction
+
+Extension methods in C# provide a powerful way to "add" new methods to existing types without modifying the original type, recompiling, or using inheritance. This chapter explores the concept of extension methods, their syntax, use cases, and best practices, equipping you with the knowledge to enhance the functionality of types in a clean and maintainable way.
+
+#### What are Extension Methods?
+
+Extension methods are static methods defined in a static class. They allow you to call methods on existing types as if they were instance methods, providing syntactic sugar for method calls.
+
+**Example:**
+```csharp
+public static class StringExtensions
+{
+    public static int WordCount(this string str)
+    {
+        return str.Split(new char[] { ' ', '.', '?' }, StringSplitOptions.RemoveEmptyEntries).Length;
+    }
+}
+```
+
+In this example, the `WordCount` method can be called on any `string` object:
+```csharp
+string text = "Hello, world!";
+int count = text.WordCount(); // Output: 2
+```
+
+#### Syntax and Definition
+
+An extension method is defined as follows:
+- It must be in a static class.
+- It must be a static method.
+- The first parameter specifies the type it extends, preceded by the `this` keyword.
+
+**Example:**
+```csharp
+public static class MyExtensions
+{
+    public static ReturnType MethodName(this TypeToExtend parameter, otherParameters)
+    {
+        // Method implementation
+    }
+}
+```
+
+**Example extending `int`:**
+```csharp
+public static class IntExtensions
+{
+    public static bool IsEven(this int number)
+    {
+        return number % 2 == 0;
+    }
+}
+```
+
+Usage:
+```csharp
+int number = 10;
+bool isEven = number.IsEven(); // Output: true
+```
+
+#### Use Cases
+
+**1. Enhancing Existing Types:**
+Extension methods allow you to add utility methods to existing types, like adding a `ToTitleCase` method to the `string` type.
+
+**Example:**
+```csharp
+public static class StringExtensions
+{
+    public static string ToTitleCase(this string str)
+    {
+        return CultureInfo.CurrentCulture.TextInfo.ToTitleCase(str.ToLower());
+    }
+}
+```
+
+**2. LINQ:**
+LINQ (Language Integrated Query) heavily relies on extension methods to add query capabilities to collections and other types.
+
+**Example:**
+```csharp
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+var evenNumbers = numbers.Where(n => n % 2 == 0);
+```
+
+**3. Improving Code Readability:**
+Extension methods can make code more readable by allowing method chaining and expressive syntax.
+
+**Example:**
+```csharp
+public static class DateTimeExtensions
+{
+    public static bool IsWeekend(this DateTime date)
+    {
+        return date.DayOfWeek == DayOfWeek.Saturday || date.DayOfWeek == DayOfWeek.Sunday;
+    }
+}
+```
+
+Usage:
+```csharp
+DateTime today = DateTime.Now;
+bool isWeekend = today.IsWeekend();
+```
+
+#### Best Practices
+
+**1. Use Meaningful Names:**
+Ensure the names of your extension methods clearly convey their purpose.
+
+**2. Avoid Overuse:**
+Do not overload types with unnecessary extension methods. Use them judiciously to keep your codebase clean.
+
+**3. Consider Performance:**
+Be mindful of performance implications, especially if your extension methods involve complex operations or are used in performance-critical paths.
+
+**4. Keep Methods Simple:**
+Extension methods should perform a single, well-defined task. Complex logic should be avoided to maintain readability and maintainability.
+
+#### Limitations
+
+**1. Access to Private Members:**
+Extension methods cannot access private or protected members of the type they extend. They only have access to public and internal members.
+
+**2. Name Conflicts:**
+If an extension method has the same name as an existing method on the type, the existing method takes precedence. Be careful to avoid name conflicts.
+
+**3. Static and Sealed Classes:**
+Extension methods cannot extend static classes and are not allowed to modify sealed classes directly. However, they can provide utility methods that operate on instances of sealed classes.
+
+#### Conclusion
+
+Extension methods are a powerful feature in C# that can significantly enhance the functionality and readability of your code. By understanding their syntax, use cases, and best practices, you can leverage extension methods to create more expressive, maintainable, and reusable code. Use them wisely to add meaningful functionality to existing types without altering their original definitions.
+
+### Chapter: Trees in C#
+
+#### Introduction
+
+Trees are a fundamental data structure in computer science, used to represent hierarchical relationships. They are composed of nodes, where each node contains a value and references to child nodes. In C#, trees are implemented using classes and can be customized to suit various applications. This chapter explores the concepts, implementations, and applications of trees in C#.
+
+#### Basic Concepts
+
+**1. Nodes:**
+A node is the basic unit of a tree. It contains data and references to its children.
+
+**Example:**
+```csharp
+public class TreeNode<T>
+{
+    public T Data { get; set; }
+    public List<TreeNode<T>> Children { get; set; }
+
+    public TreeNode(T data)
+    {
+        Data = data;
+        Children = new List<TreeNode<T>>();
+    }
+}
+```
+
+**2. Root:**
+The root is the top node of a tree. It has no parent and serves as the starting point for traversals.
+
+**3. Leaf:**
+A leaf node is a node with no children.
+
+**4. Height and Depth:**
+The height of a tree is the length of the longest path from the root to a leaf. The depth of a node is the length of the path from the root to that node.
+
+#### Types of Trees
+
+**1. Binary Tree:**
+A binary tree is a tree where each node has at most two children, referred to as the left and right child.
+
+**Example:**
+```csharp
+public class BinaryTreeNode<T>
+{
+    public T Data { get; set; }
+    public BinaryTreeNode<T> Left { get; set; }
+    public BinaryTreeNode<T> Right { get; set; }
+
+    public BinaryTreeNode(T data)
+    {
+        Data = data;
+    }
+}
+```
+
+**2. Binary Search Tree (BST):**
+A BST is a binary tree where each node follows the ordering property: left child's value is less than the parent's value, and the right child's value is greater than the parent's value.
+
+**Example:**
+```csharp
+public class BinarySearchTree
+{
+    public BinaryTreeNode<int> Root { get; set; }
+
+    public void Insert(int value)
+    {
+        Root = InsertRec(Root, value);
+    }
+
+    private BinaryTreeNode<int> InsertRec(BinaryTreeNode<int> root, int value)
+    {
+        if (root == null)
+        {
+            root = new BinaryTreeNode<int>(value);
+            return root;
+        }
+
+        if (value < root.Data)
+            root.Left = InsertRec(root.Left, value);
+        else if (value > root.Data)
+            root.Right = InsertRec(root.Right, value);
+
+        return root;
+    }
+}
+```
+
+**3. AVL Tree:**
+An AVL tree is a self-balancing binary search tree where the heights of the two child subtrees of any node differ by at most one.
+
+**4. Red-Black Tree:**
+A red-black tree is a self-balancing binary search tree with an additional property of nodes being colored red or black to ensure balanced heights.
+
+**5. N-ary Tree:**
+An N-ary tree is a tree in which a node can have at most N children.
+
+**Example:**
+```csharp
+public class NaryTreeNode<T>
+{
+    public T Data { get; set; }
+    public List<NaryTreeNode<T>> Children { get; set; }
+
+    public NaryTreeNode(T data)
+    {
+        Data = data;
+        Children = new List<NaryTreeNode<T>>();
+    }
+}
+```
+
+#### Tree Traversal
+
+Tree traversal refers to the process of visiting all the nodes in a tree in a specific order. Common traversal techniques include:
+
+**1. In-order Traversal (Binary Trees):**
+Visit the left subtree, the root, and then the right subtree.
+
+**Example:**
+```csharp
+public void InOrderTraversal(BinaryTreeNode<int> node)
+{
+    if (node != null)
+    {
+        InOrderTraversal(node.Left);
+        Console.WriteLine(node.Data);
+        InOrderTraversal(node.Right);
+    }
+}
+```
+
+**2. Pre-order Traversal:**
+Visit the root, the left subtree, and then the right subtree.
+
+**Example:**
+```csharp
+public void PreOrderTraversal(BinaryTreeNode<int> node)
+{
+    if (node != null)
+    {
+        Console.WriteLine(node.Data);
+        PreOrderTraversal(node.Left);
+        PreOrderTraversal(node.Right);
+    }
+}
+```
+
+**3. Post-order Traversal:**
+Visit the left subtree, the right subtree, and then the root.
+
+**Example:**
+```csharp
+public void PostOrderTraversal(BinaryTreeNode<int> node)
+{
+    if (node != null)
+    {
+    }
+}
+
+
+### Chapter: Graphs in C#
+
+#### Introduction
+
+Graphs are a versatile data structure used to represent relationships between pairs of objects. They consist of vertices (nodes) and edges (connections). Graphs are widely used in various domains, including social networks, computer networks, and route planning. This chapter explores the concepts, implementations, and applications of graphs in C#.
+
+#### Basic Concepts
+
+**1. Vertices and Edges:**
+- **Vertex (Node):** Represents an entity in the graph.
+- **Edge:** Represents a connection between two vertices.
+
+**2. Types of Graphs:**
+- **Directed Graph (Digraph):** Edges have a direction, going from one vertex to another.
+- **Undirected Graph:** Edges do not have a direction; the connection is bidirectional.
+- **Weighted Graph:** Edges have weights, representing the cost or distance between vertices.
+- **Unweighted Graph:** Edges do not have weights.
+
+**3. Graph Representations:**
+Graphs can be represented in multiple ways, including adjacency lists and adjacency matrices.
+
+#### Adjacency List
+
+An adjacency list represents a graph as a list of lists. Each vertex has a list of adjacent vertices.
+
+**Example:**
+```csharp
+public class Graph
+{
+    private readonly Dictionary<int, List<int>> adjacencyList;
+
+    public Graph()
+    {
+        adjacencyList = new Dictionary<int, List<int>>();
+    }
+
+    public void AddVertex(int vertex)
+    {
+        if (!adjacencyList.ContainsKey(vertex))
+        {
+            adjacencyList[vertex] = new List<int>();
+        }
+    }
+
+    public void AddEdge(int from, int to)
+    {
+        if (adjacencyList.ContainsKey(from))
+        {
+            adjacencyList[from].Add(to);
+        }
+    }
+
+    public List<int> GetNeighbors(int vertex)
+    {
+        return adjacencyList.ContainsKey(vertex) ? adjacencyList[vertex] : new List<int>();
+    }
+}
+```
+
+#### Adjacency Matrix
+
+An adjacency matrix represents a graph as a 2D array. The cell at row `i` and column `j` is `true` if there is an edge from vertex `i` to vertex `j`.
+
+**Example:**
+```csharp
+public class GraphMatrix
+{
+    private readonly bool[,] adjacencyMatrix;
+    private readonly int vertices;
+
+    public GraphMatrix(int size)
+    {
+        vertices = size;
+        adjacencyMatrix = new bool[vertices, vertices];
+    }
+
+    public void AddEdge(int from, int to)
+    {
+        adjacencyMatrix[from, to] = true;
+    }
+
+    public bool HasEdge(int from, int to)
+    {
+        return adjacencyMatrix[from, to];
+    }
+}
+```
+
+#### Graph Traversal
+
+Graph traversal algorithms visit all the vertices in a graph. Common traversal techniques include Depth-First Search (DFS) and Breadth-First Search (BFS).
+
+**Depth-First Search (DFS):**
+DFS explores as far as possible along each branch before backtracking.
+
+**Example:**
+```csharp
+public void DepthFirstSearch(int start)
+{
+    var visited = new HashSet<int>();
+    var stack = new Stack<int>();
+    stack.Push(start);
+
+    while (stack.Count > 0)
+    {
+        int vertex = stack.Pop();
+        if (!visited.Contains(vertex))
+        {
+            Console.WriteLine(vertex);
+            visited.Add(vertex);
+            foreach (var neighbor in adjacencyList[vertex])
+            {
+                if (!visited.Contains(neighbor))
+                {
+                    stack.Push(neighbor);
+                }
+            }
+        }
+    }
+}
+```
+
+**Breadth-First Search (BFS):**
+BFS explores the nearest vertices first before moving on to vertices further away.
+
+**Example:**
+```csharp
+public void BreadthFirstSearch(int start)
+{
+    var visited = new HashSet<int>();
+    var queue = new Queue<int>();
+    queue.Enqueue(start);
+
+    while (queue.Count > 0)
+    {
+        int vertex = queue.Dequeue();
+        if (!visited.Contains(vertex))
+        {
+            Console.WriteLine(vertex);
+            visited.Add(vertex);
+            foreach (var neighbor in adjacencyList[vertex])
+            {
+                if (!visited.Contains(neighbor))
+                {
+                    queue.Enqueue(neighbor);
+                }
+            }
+        }
+    }
+}
+```
+
+#### Shortest Path Algorithms
+
+**Dijkstra’s Algorithm:**
+Dijkstra's algorithm finds the shortest path from a source vertex to all other vertices in a weighted graph.
+
+**Example:**
+```csharp
+public class Dijkstra
+{
+    private readonly Dictionary<int, List<Tuple<int, int>>> adjacencyList;
+
+    public Dijkstra()
+    {
+        adjacencyList = new Dictionary<int, List<Tuple<int, int>>>();
+    }
+
+    public void AddVertex(int vertex)
+    {
+        if (!adjacencyList.ContainsKey(vertex))
+        {
+            adjacencyList[vertex] = new List<Tuple<int, int>>();
+        }
+    }
+
+    public void AddEdge(int from, int to, int weight)
+    {
+        if (adjacencyList.ContainsKey(from))
+        {
+            adjacencyList[from].Add(Tuple.Create(to, weight));
+        }
+    }
+
+    public Dictionary<int, int> ComputeShortestPaths(int start)
+    {
+        var distances = new Dictionary<int, int>();
+        var priorityQueue = new SortedSet<Tuple<int, int>>(Comparer<Tuple<int, int>>.Create((a, b) => a.Item2 == b.Item2 ? a.Item1.CompareTo(b.Item1) : a.Item2.CompareTo(b.Item2)));
+        priorityQueue.Add(Tuple.Create(start, 0));
+
+        foreach (var vertex in adjacencyList.Keys)
+        {
+            distances[vertex] = int.MaxValue;
+        }
+        distances[start] = 0;
+
+        while (priorityQueue.Count > 0)
+        {
+            var current = priorityQueue.Min;
+            priorityQueue.Remove(current);
+            int currentVertex = current.Item1;
+
+            foreach (var neighbor in adjacencyList[currentVertex])
+            {
+                int nextVertex = neighbor.Item1;
+                int weight = neighbor.Item2;
+                int newDist = distances[currentVertex] + weight;
+
+                if (newDist < distances[nextVertex])
+                {
+                    priorityQueue.Remove(Tuple.Create(nextVertex, distances[nextVertex]));
+                    distances[nextVertex] = newDist;
+                    priorityQueue.Add(Tuple.Create(nextVertex, newDist));
+                }
+            }
+        }
+
+        return distances;
+    }
+}
+```
+
+#### Applications of Graphs
+
+**1. Social Networks:**
+Graphs can model relationships and interactions between users.
+
+**2. Computer Networks:**
+Graphs represent connections between routers, switches, and computers.
+
+**3. Route Planning:**
+Graphs are used in GPS systems to find the shortest path between locations.
+
+**4. Dependency Management:**
+Graphs help manage dependencies in software projects, identifying build orders and resolving dependencies.
+
+#### Conclusion
+
+Graphs are a powerful and flexible data structure essential for representing complex relationships and solving a wide range of problems. This chapter covered the basic concepts, representations, traversal algorithms, and shortest path algorithms of graphs in C#. By mastering these concepts, you can efficiently model and analyze complex systems and relationships in your applications.
+
+
+### Chapter: Regular Expressions in C#
+
+#### Introduction
+
+Regular expressions, or regex, are a powerful tool for pattern matching and text manipulation. They are used for searching, editing, and validating text. In C#, the `System.Text.RegularExpressions` namespace provides comprehensive support for working with regular expressions. This chapter explores the basics of regular expressions, their syntax, and how to use them effectively in C#.
+
+#### Basics of Regular Expressions
+
+Regular expressions consist of a sequence of characters that define a search pattern. This pattern can be used to match strings or parts of strings. 
+
+**Example:**
+The regex pattern `\d+` matches one or more digits.
+
+#### Components of Regular Expressions
+
+**1. Literals:**
+Characters that match themselves.
+
+**Example:**
+The pattern `abc` matches the string "abc".
+
+**2. Metacharacters:**
+Special characters that define patterns.
+
+**Common Metacharacters:**
+- `.`: Matches any single character except newline.
+- `^`: Matches the start of a string.
+- `$`: Matches the end of a string.
+- `*`: Matches zero or more occurrences of the preceding element.
+- `+`: Matches one or more occurrences of the preceding element.
+- `?`: Matches zero or one occurrence of the preceding element.
+- `\`: Escapes a metacharacter.
+
+**3. Character Classes:**
+Define a set of characters to match.
+
+**Example:**
+- `[abc]`: Matches any one of 'a', 'b', or 'c'.
+- `[a-z]`: Matches any lowercase letter.
+- `\d`: Matches any digit (equivalent to `[0-9]`).
+- `\w`: Matches any word character (equivalent to `[a-zA-Z0-9_]`).
+- `\s`: Matches any whitespace character.
+
+**4. Quantifiers:**
+Specify the number of occurrences to match.
+
+**Example:**
+- `a*`: Matches zero or more 'a's.
+- `a+`: Matches one or more 'a's.
+- `a{3}`: Matches exactly three 'a's.
+- `a{2,4}`: Matches between two and four 'a's.
+
+**5. Groups and Alternations:**
+Groups allow you to capture parts of the match, and alternation allows you to match one of several patterns.
+
+**Example:**
+- `(abc)`: Capturing group for 'abc'.
+- `a|b`: Matches 'a' or 'b'.
+
+#### Using Regular Expressions in C#
+
+In C#, the `Regex` class from the `System.Text.RegularExpressions` namespace is used to work with regular expressions.
+
+**Example:**
+```csharp
+using System;
+using System.Text.RegularExpressions;
+
+public class Program
+{
+    public static void Main()
+    {
+        string pattern = @"\d+";
+        string input = "There are 123 apples and 456 oranges.";
+
+        foreach (Match match in Regex.Matches(input, pattern))
+        {
+            Console.WriteLine(match.Value);
+        }
+    }
+}
+```
+
+#### Common Operations
+
+**1. Matching:**
+To check if a pattern matches a string.
+
+**Example:**
+```csharp
+string pattern = @"\d{3}";
+string input = "123";
+bool isMatch = Regex.IsMatch(input, pattern); // Output: true
+```
+
+**2. Finding Matches:**
+To find all matches of a pattern in a string.
+
+**Example:**
+```csharp
+string pattern = @"\d+";
+string input = "My numbers are 123 and 456";
+MatchCollection matches = Regex.Matches(input, pattern);
+
+foreach (Match match in matches)
+{
+    Console.WriteLine(match.Value); // Outputs: 123 456
+}
+```
+
+**3. Replacing:**
+To replace parts of a string that match a pattern.
+
+**Example:**
+```csharp
+string pattern = @"\d+";
+string input = "I have 2 apples and 3 oranges";
+string replacement = "#";
+string result = Regex.Replace(input, pattern, replacement); // Output: "I have # apples and # oranges"
+```
+
+**4. Splitting:**
+To split a string based on a pattern.
+
+**Example:**
+```csharp
+string pattern = @"\s+";
+string input = "Split these words";
+string[] result = Regex.Split(input, pattern);
+
+foreach (string s in result)
+{
+    Console.WriteLine(s); // Outputs: "Split", "these", "words"
+}
+```
+
+**5. Capturing Groups:**
+To capture parts of the match for later use.
+
+**Example:**
+```csharp
+string pattern = @"(\d{3})-(\d{2})-(\d{4})";
+string input = "My number is 123-45-6789";
+Match match = Regex.Match(input, pattern);
+
+if (match.Success)
+{
+    Console.WriteLine("Full match: " + match.Value); // Output: 123-45-6789
+    Console.WriteLine("Group 1: " + match.Groups[1].Value); // Output: 123
+    Console.WriteLine("Group 2: " + match.Groups[2].Value); // Output: 45
+    Console.WriteLine("Group 3: " + match.Groups[3].Value); // Output: 6789
+}
+```
+
+#### Advanced Topics
+
+**1. Lookahead and Lookbehind:**
+Assertions that match a group before or after a specified pattern without including it in the result.
+
+**Example:**
+- Positive lookahead: `\d+(?= dollars)` matches digits followed by "dollars".
+- Positive lookbehind: `(?<=USD )\d+` matches digits preceded by "USD ".
+
+**2. Non-Capturing Groups:**
+Groups that do not capture their match for later use.
+
+**Example:**
+`(?:abc)` matches "abc" but does not capture it.
+
+**3. Compiled Regular Expressions:**
+To improve performance by compiling the regular expression.
+
+**Example:**
+```csharp
+Regex regex = new Regex(@"\d+", RegexOptions.Compiled);
+```
+
+#### Best Practices
+
+**1. Use Verbatim Strings:**
+Use `@` to avoid escaping backslashes.
+
+**Example:**
+```csharp
+string pattern = @"\d+";
+```
+
+**2. Comment Complex Patterns:**
+Use the `RegexOptions.IgnorePatternWhitespace` option and comments to explain complex patterns.
+
+**Example:**
+```csharp
+string pattern = @"
+    \d+     # Match one or more digits
+    \s+     # Followed by one or more whitespace characters
+    words   # Followed by the word 'words'
+";
+Regex regex = new Regex(pattern, RegexOptions.IgnorePatternWhitespace);
+```
+
+**3. Precompile Common Patterns:**
+Precompile frequently used regular expressions for better performance.
+
+**Example:**
+```csharp
+Regex regex = new Regex(@"\d+", RegexOptions.Compiled);
+```
+
+#### Conclusion
+
+Regular expressions are a powerful tool for text processing in C#. By understanding their syntax and how to use the `Regex` class, you can efficiently search, manipulate, and validate strings. This chapter covered the basics of regular expressions, common operations, advanced topics, and best practices, providing a comprehensive guide to mastering regular expressions in C#.
+
+
+### Chapter: Tuples in C#
+
+#### Introduction
+
+Tuples in C# are a lightweight data structure that can hold a collection of elements of different types. They are useful for grouping multiple values together without the need to create a custom class or struct. This chapter explores the basics of tuples, their syntax, usage, and best practices, equipping you with the knowledge to use tuples effectively in your C# applications.
+
+#### Basics of Tuples
+
+Tuples are ordered collections of elements. Each element can be of a different type. C# provides two main types of tuples: `System.Tuple` and `ValueTuple`.
+
+**Example of a tuple:**
+```csharp
+var tuple = (1, "apple", true);
+```
+
+#### System.Tuple
+
+The `System.Tuple` class provides a way to create tuples in C#. It supports tuples with up to 8 elements.
+
+**Example:**
+```csharp
+Tuple<int, string, bool> tuple = new Tuple<int, string, bool>(1, "apple", true);
+Console.WriteLine(tuple.Item1); // Output: 1
+Console.WriteLine(tuple.Item2); // Output: apple
+Console.WriteLine(tuple.Item3); // Output: true
+```
+
+#### ValueTuple
+
+Introduced in C# 7.0, `ValueTuple` is a more efficient and flexible way to work with tuples. Unlike `System.Tuple`, `ValueTuple` is a value type, which can lead to better performance.
+
+**Example:**
+```csharp
+var tuple = (1, "apple", true);
+Console.WriteLine(tuple.Item1); // Output: 1
+Console.WriteLine(tuple.Item2); // Output: apple
+Console.WriteLine(tuple.Item3); // Output: true
+```
+
+#### Named Elements in Tuples
+
+With `ValueTuple`, you can assign names to tuple elements for better readability.
+
+**Example:**
+```csharp
+var tuple = (Id: 1, Name: "apple", IsAvailable: true);
+Console.WriteLine(tuple.Id); // Output: 1
+Console.WriteLine(tuple.Name); // Output: apple
+Console.WriteLine(tuple.IsAvailable); // Output: true
+```
+
+#### Deconstructing Tuples
+
+You can deconstruct a tuple into individual variables for easier access to its elements.
+
+**Example:**
+```csharp
+var tuple = (1, "apple", true);
+var (id, name, isAvailable) = tuple;
+Console.WriteLine(id); // Output: 1
+Console.WriteLine(name); // Output: apple
+Console.WriteLine(isAvailable); // Output: true
+```
+
+#### Returning Tuples from Methods
+
+Tuples are useful for returning multiple values from a method without creating a custom type.
+
+**Example:**
+```csharp
+public (int, string) GetPerson()
+{
+    return (1, "John Doe");
+}
+
+var person = GetPerson();
+Console.WriteLine(person.Item1); // Output: 1
+Console.WriteLine(person.Item2); // Output: John Doe
+
+// Using named elements
+public (int Id, string Name) GetPerson()
+{
+    return (1, "John Doe");
+}
+
+var person = GetPerson();
+Console.WriteLine(person.Id); // Output: 1
+Console.WriteLine(person.Name); // Output: John Doe
+```
+
+#### Common Use Cases
+
+**1. Grouping Multiple Return Values:**
+Tuples are an excellent way to group multiple return values from a method.
+
+**Example:**
+```csharp
+public (int Min, int Max) GetMinMax(int[] numbers)
+{
+    int min = numbers.Min();
+    int max = numbers.Max();
+    return (min, max);
+}
+
+var result = GetMinMax(new int[] { 1, 2, 3, 4, 5 });
+Console.WriteLine(result.Min); // Output: 1
+Console.WriteLine(result.Max); // Output: 5
+```
+
+**2. Temporary Data Structures:**
+Tuples can be used as temporary data structures to hold data temporarily without creating a custom type.
+
+**Example:**
+```csharp
+var personInfo = (Name: "Jane Doe", Age: 30);
+Console.WriteLine(personInfo.Name); // Output: Jane Doe
+Console.WriteLine(personInfo.Age); // Output: 30
+```
+
+**3. LINQ Queries:**
+Tuples can be used in LINQ queries to group data.
+
+**Example:**
+```csharp
+var data = new[] { 1, 2, 3, 4, 5 };
+var result = data.Select(x => (Number: x, Square: x * x));
+
+foreach (var item in result)
+{
+    Console.WriteLine($"Number: {item.Number}, Square: {item.Square}");
+}
+```
+
+#### Best Practices
+
+**1. Use Named Elements:**
+Use named elements to improve the readability and maintainability of your code.
+
+**2. Limit Tuple Size:**
+Avoid using tuples with more than 3-4 elements. For larger collections, consider creating a custom class or struct.
+
+**3. Avoid Tuples as Public API:**
+While tuples are convenient, they can make public APIs less readable and harder to maintain. Prefer using custom types for public interfaces.
+
+**4. Deconstruct for Clarity:**
+Deconstruct tuples into individual variables when needed to improve code clarity.
+
+#### Conclusion
+
+Tuples in C# provide a simple and efficient way to group multiple values together. By understanding the differences between `System.Tuple` and `ValueTuple`, and learning how to use named elements, deconstruction, and best practices, you can leverage tuples to write cleaner and more maintainable code. This chapter has covered the basics, common use cases, and best practices for using tuples in C#.
+
+
+### Chapter: Create Your Own API in C#
+
+#### Introduction
+
+Creating your own API (Application Programming Interface) in C# allows you to expose functionalities of your application to other applications or clients. This chapter will guide you through the process of building a RESTful API using ASP.NET Core, a powerful and flexible framework for building web applications and services.
+
+#### Prerequisites
+
+Before starting, ensure you have the following installed:
+- .NET SDK
+- An IDE like Visual Studio or Visual Studio Code
+
+#### Setting Up the Project
+
+1. **Create a New ASP.NET Core Web API Project:**
+   Open a terminal or command prompt and run the following command:
+   ```bash
+   dotnet new webapi -n MyApi
+   cd MyApi
+   ```
+
+2. **Run the Project:**
+   Navigate to the project directory and run:
+   ```bash
+   dotnet run
+   ```
+   Open a browser and go to `http://localhost:5000` to see the default API running.
+
+#### Project Structure
+
+The newly created project contains the following structure:
+- `Controllers` folder: Contains controller classes to handle HTTP requests.
+- `Models` folder: (Create this) Contains data models.
+- `Program.cs`: Entry point for the application.
+- `Startup.cs`: Configures services and the app's request pipeline.
+
+#### Creating a Data Model
+
+First, create a data model to represent the data your API will handle.
+
+1. **Create the Models Folder:**
+   ```bash
+   mkdir Models
+   ```
+
+2. **Create a Model Class:**
+   Create a file named `Product.cs` inside the `Models` folder with the following content:
+   ```csharp
+   namespace MyApi.Models
+   {
+       public class Product
+       {
+           public int Id { get; set; }
+           public string Name { get; set; }
+           public decimal Price { get; set; }
+       }
+   }
+   ```
+
+#### Creating a Controller
+
+A controller is a class that handles HTTP requests and returns responses.
+
+1. **Create a ProductsController:**
+   Create a file named `ProductsController.cs` inside the `Controllers` folder with the following content:
+   ```csharp
+   using Microsoft.AspNetCore.Mvc;
+   using MyApi.Models;
+   using System.Collections.Generic;
+   using System.Linq;
+
+   [Route("api/[controller]")]
+   [ApiController]
+   public class ProductsController : ControllerBase
+   {
+       private static List<Product> Products = new List<Product>
+       {
+           new Product { Id = 1, Name = "Laptop", Price = 1000 },
+           new Product { Id = 2, Name = "Smartphone", Price = 500 }
+       };
+
+       // GET: api/products
+       [HttpGet]
+       public ActionResult<IEnumerable<Product>> GetProducts()
+       {
+           return Products;
+       }
+
+       // GET: api/products/{id}
+       [HttpGet("{id}")]
+       public ActionResult<Product> GetProduct(int id)
+       {
+           var product = Products.FirstOrDefault(p => p.Id == id);
+           if (product == null)
+           {
+               return NotFound();
+           }
+           return product;
+       }
+
+       // POST: api/products
+       [HttpPost]
+       public ActionResult<Product> PostProduct(Product product)
+       {
+           product.Id = Products.Max(p => p.Id) + 1;
+           Products.Add(product);
+           return CreatedAtAction(nameof(GetProduct), new { id = product.Id }, product);
+       }
+
+       // PUT: api/products/{id}
+       [HttpPut("{id}")]
+       public IActionResult PutProduct(int id, Product product)
+       {
+           var existingProduct = Products.FirstOrDefault(p => p.Id == id);
+           if (existingProduct == null)
+           {
+               return NotFound();
+           }
+           existingProduct.Name = product.Name;
+           existingProduct.Price = product.Price;
+           return NoContent();
+       }
+
+       // DELETE: api/products/{id}
+       [HttpDelete("{id}")]
+       public IActionResult DeleteProduct(int id)
+       {
+           var product = Products.FirstOrDefault(p => p.Id == id);
+           if (product == null)
+           {
+               return NotFound();
+           }
+           Products.Remove(product);
+           return NoContent();
+       }
+   }
+   ```
+
+#### Configuring Dependency Injection
+
+ASP.NET Core uses dependency injection (DI) to manage services. Update the `Startup.cs` file to configure services and middleware.
+
+1. **Update ConfigureServices Method:**
+   ```csharp
+   public void ConfigureServices(IServiceCollection services)
+   {
+       services.AddControllers();
+       // Add other services here if needed
+   }
+   ```
+
+2. **Update Configure Method:**
+   ```csharp
+   public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+   {
+       if (env.IsDevelopment())
+       {
+           app.UseDeveloperExceptionPage();
+       }
+
+       app.UseHttpsRedirection();
+
+       app.UseRouting();
+
+       app.UseAuthorization();
+
+       app.UseEndpoints(endpoints =>
+       {
+           endpoints.MapControllers();
+       });
+   }
+   ```
+
+#### Testing Your API
+
+You can test your API using tools like Postman or CURL.
+
+**Example CURL Commands:**
+
+1. **Get All Products:**
+   ```bash
+   curl -X GET "https://localhost:5001/api/products" -H "accept: text/plain"
+   ```
+
+2. **Get a Single Product:**
+   ```bash
+   curl -X GET "https://localhost:5001/api/products/1" -H "accept: text/plain"
+   ```
+
+3. **Create a New Product:**
+   ```bash
+   curl -X POST "https://localhost:5001/api/products" -H "accept: text/plain" -H "Content-Type: application/json" -d "{\"name\":\"Tablet\",\"price\":300}"
+   ```
+
+4. **Update a Product:**
+   ```bash
+   curl -X PUT "https://localhost:5001/api/products/1" -H "accept: text/plain" -H "Content-Type: application/json" -d "{\"id\":1,\"name\":\"Laptop Pro\",\"price\":1500}"
+   ```
+
+5. **Delete a Product:**
+   ```bash
+   curl -X DELETE "https://localhost:5001/api/products/1" -H "accept: text/plain"
+   ```
+
+#### Adding Swagger for API Documentation
+
+Swagger provides a user-friendly interface for interacting with your API and automatically generates documentation.
+
+1. **Install Swagger Packages:**
+   Run the following command to add Swagger support:
+   ```bash
+   dotnet add package Swashbuckle.AspNetCore
+   ```
+
+2. **Update Startup.cs:**
+   ```csharp
+   public void ConfigureServices(IServiceCollection services)
+   {
+       services.AddControllers();
+       services.AddSwaggerGen();
+   }
+
+   public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+   {
+       if (env.IsDevelopment())
+       {
+           app.UseDeveloperExceptionPage();
+       }
+
+       app.UseHttpsRedirection();
+
+       app.UseRouting();
+
+       app.UseAuthorization();
+
+       app.UseSwagger();
+       app.UseSwaggerUI(c =>
+       {
+           c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+           c.RoutePrefix = string.Empty;
+       });
+
+       app.UseEndpoints(endpoints =>
+       {
+           endpoints.MapControllers();
+       });
+   }
+   ```
+
+3. **Run the Application:**
+   Run your application and navigate to `http://localhost:5000/swagger` to see the Swagger UI.
+
+#### Conclusion
+
+Creating your own API in C# using ASP.NET Core is straightforward and powerful. This chapter covered the basics of setting up an ASP.NET Core Web API project, creating data models, controllers, and endpoints, and testing your API. Additionally, we discussed adding Swagger for API documentation. With these skills, you can build robust and scalable APIs to expose your application's functionality to other systems and clients.
+
+
+### Chapter: Arrays in C#
+
+#### Introduction
+
+Arrays are a fundamental data structure in C# that allows you to store multiple elements of the same type in a single variable. They are essential for managing collections of data in a structured way. This chapter explores the basics of arrays, their types, how to use them, and best practices for working with arrays in C#.
+
+#### Basics of Arrays
+
+An array is a fixed-size, ordered collection of elements of the same type. Each element in an array is identified by an index, starting from zero.
+
+**Example:**
+```csharp
+int[] numbers = new int[5];
+```
+
+#### Declaring and Initializing Arrays
+
+**1. Declaring an Array:**
+To declare an array, specify the type of elements it will hold followed by square brackets.
+
+**Example:**
+```csharp
+int[] numbers;
+```
+
+**2. Initializing an Array:**
+You can initialize an array by specifying its size or by providing initial values.
+
+**Example:**
+```csharp
+// Specifying size
+int[] numbers = new int[5];
+
+// Providing initial values
+int[] numbers = new int[] { 1, 2, 3, 4, 5 };
+
+// Simplified syntax
+int[] numbers = { 1, 2, 3, 4, 5 };
+```
+
+#### Accessing Array Elements
+
+You can access array elements using their index. The index is zero-based.
+
+**Example:**
+```csharp
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(numbers[0]); // Output: 1
+Console.WriteLine(numbers[4]); // Output: 5
+
+// Modifying an element
+numbers[2] = 10;
+Console.WriteLine(numbers[2]); // Output: 10
+```
+
+#### Array Properties and Methods
+
+Arrays in C# come with several built-in properties and methods.
+
+**1. Length Property:**
+The `Length` property returns the number of elements in the array.
+
+**Example:**
+```csharp
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(numbers.Length); // Output: 5
+```
+
+**2. Methods:**
+- `Array.Sort(array)`: Sorts the elements in the array.
+- `Array.Reverse(array)`: Reverses the order of elements in the array.
+- `Array.IndexOf(array, value)`: Returns the index of the first occurrence of the value.
+- `Array.Copy(sourceArray, targetArray, length)`: Copies elements from one array to another.
+
+**Example:**
+```csharp
+int[] numbers = { 5, 3, 1, 4, 2 };
+Array.Sort(numbers);
+Array.Reverse(numbers);
+int index = Array.IndexOf(numbers, 3);
+
+Console.WriteLine(string.Join(", ", numbers)); // Output: 5, 4, 3, 2, 1
+Console.WriteLine(index); // Output: 2
+```
+
+#### Multidimensional Arrays
+
+C# supports multidimensional arrays, such as 2D and 3D arrays.
+
+**1. Declaring a 2D Array:**
+```csharp
+int[,] matrix = new int[3, 3];
+```
+
+**2. Initializing a 2D Array:**
+```csharp
+int[,] matrix = {
+    { 1, 2, 3 },
+    { 4, 5, 6 },
+    { 7, 8, 9 }
+};
+```
+
+**3. Accessing Elements in a 2D Array:**
+```csharp
+Console.WriteLine(matrix[0, 0]); // Output: 1
+Console.WriteLine(matrix[2, 2]); // Output: 9
+```
+
+#### Jagged Arrays
+
+A jagged array is an array of arrays, where each inner array can have a different size.
+
+**1. Declaring a Jagged Array:**
+```csharp
+int[][] jaggedArray = new int[3][];
+```
+
+**2. Initializing a Jagged Array:**
+```csharp
+jaggedArray[0] = new int[] { 1, 2 };
+jaggedArray[1] = new int[] { 3, 4, 5 };
+jaggedArray[2] = new int[] { 6, 7, 8, 9 };
+```
+
+**3. Accessing Elements in a Jagged Array:**
+```csharp
+Console.WriteLine(jaggedArray[0][0]); // Output: 1
+Console.WriteLine(jaggedArray[2][3]); // Output: 9
+```
+
+#### Using Arrays with Loops
+
+Arrays are often used with loops to process each element.
+
+**1. Using a `for` Loop:**
+```csharp
+int[] numbers = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.WriteLine(numbers[i]);
+}
+```
+
+**2. Using a `foreach` Loop:**
+```csharp
+int[] numbers = { 1, 2, 3, 4, 5 };
+foreach (int number in numbers)
+{
+    Console.WriteLine(number);
+}
+```
+
+#### Array Limitations
+
+1. **Fixed Size:** Once an array is created, its size cannot be changed. For dynamic data structures, consider using collections like `List<T>`.
+2. **Type Homogeneity:** All elements in an array must be of the same type.
+
+#### Best Practices
+
+1. **Use Appropriate Size:** Initialize arrays with the correct size to avoid wasting memory.
+2. **Prefer `foreach` for Read-Only Access:** Use `foreach` loops for better readability when you do not need to modify the array.
+3. **Bounds Checking:** Always ensure you are within the array bounds to avoid `IndexOutOfRangeException`.
+4. **Use Lists for Dynamic Arrays:** For collections where the size might change, prefer using `List<T>` over arrays.
+
+#### Conclusion
+
+Arrays are a fundamental part of C# programming, providing a way to store and manage collections of data efficiently. By understanding how to declare, initialize, and manipulate arrays, as well as the differences between single-dimensional, multidimensional, and jagged arrays, you can handle a wide range of programming scenarios. This chapter covered the basics, common operations, and best practices for working with arrays in C#.
+
+
+### Chapter: Generics in C#
+
+#### Introduction
+
+Generics in C# allow you to define classes, methods, and data structures that can operate with any data type without compromising type safety. By enabling you to write more flexible and reusable code, generics enhance both performance and maintainability. This chapter covers the fundamentals of generics, including generic classes, methods, constraints, and best practices.
+
+#### Basics of Generics
+
+Generics are a powerful feature in C# that provide a way to define data structures and methods with placeholders for the data types they store and manipulate.
+
+**Example of a Generic List:**
+```csharp
+List<int> numbers = new List<int>();
+numbers.Add(1);
+numbers.Add(2);
+numbers.Add(3);
+```
+
+#### Generic Classes
+
+A generic class can work with any data type specified at runtime.
+
+**Defining a Generic Class:**
+```csharp
+public class GenericClass<T>
+{
+    private T data;
+
+    public void Add(T item)
+    {
+        data = item;
+    }
+
+    public T Get()
+    {
+        return data;
+    }
+}
+```
+
+**Using a Generic Class:**
+```csharp
+GenericClass<int> intInstance = new GenericClass<int>();
+intInstance.Add(10);
+Console.WriteLine(intInstance.Get()); // Output: 10
+
+GenericClass<string> stringInstance = new GenericClass<string>();
+stringInstance.Add("Hello");
+Console.WriteLine(stringInstance.Get()); // Output: Hello
+```
+
+#### Generic Methods
+
+Generic methods are methods that are declared with type parameters.
+
+**Defining a Generic Method:**
+```csharp
+public void Swap<T>(ref T a, ref T b)
+{
+    T temp = a;
+    a = b;
+    b = temp;
+}
+```
+
+**Using a Generic Method:**
+```csharp
+int x = 1, y = 2;
+Swap(ref x, ref y);
+Console.WriteLine($"x: {x}, y: {y}"); // Output: x: 2, y: 1
+
+string first = "first", second = "second";
+Swap(ref first, ref second);
+Console.WriteLine($"first: {first}, second: {second}"); // Output: first: second, second: first
+```
+
+#### Generic Constraints
+
+Constraints allow you to restrict the types that can be used with generics. This ensures that the type parameters meet certain criteria.
+
+**Common Constraints:**
+- `where T : struct`: T must be a value type.
+- `where T : class`: T must be a reference type.
+- `where T : new()`: T must have a parameterless constructor.
+- `where T : SomeBaseClass`: T must inherit from `SomeBaseClass`.
+- `where T : ISomeInterface`: T must implement `ISomeInterface`.
+
+**Example with Constraints:**
+```csharp
+public class GenericClass<T> where T : new()
+{
+    private T data;
+
+    public GenericClass()
+    {
+        data = new T();
+    }
+
+    public T Get()
+    {
+        return data;
+    }
+}
+```
+
+#### Generic Interfaces
+
+Generic interfaces define a contract that can work with any data type.
+
+**Defining a Generic Interface:**
+```csharp
+public interface IRepository<T>
+{
+    void Add(T item);
+    T Get(int id);
+}
+```
+
+**Implementing a Generic Interface:**
+```csharp
+public class Repository<T> : IRepository<T>
+{
+    private List<T> items = new List<T>();
+
+    public void Add(T item)
+    {
+        items.Add(item);
+    }
+
+    public T Get(int id)
+    {
+        return items[id];
+    }
+}
+```
+
+**Using a Generic Interface:**
+```csharp
+IRepository<string> stringRepository = new Repository<string>();
+stringRepository.Add("Hello");
+Console.WriteLine(stringRepository.Get(0)); // Output: Hello
+```
+
+#### Covariance and Contravariance
+
+Covariance and contravariance allow for implicit reference conversion for array types, delegate types, and generic type parameters.
+
+**Covariance:**
+Enables you to use a more derived type than originally specified.
+
+**Example:**
+```csharp
+IEnumerable<string> strings = new List<string>();
+IEnumerable<object> objects = strings; // Covariance
+```
+
+**Contravariance:**
+Enables you to use a less derived type than originally specified.
+
+**Example:**
+```csharp
+Action<object> actObject = (obj) => Console.WriteLine(obj);
+Action<string> actString = actObject; // Contravariance
+actString("Hello"); // Output: Hello
+```
+
+#### Collections and Generics
+
+The .NET framework provides several generic collections, such as `List<T>`, `Dictionary<TKey, TValue>`, `Queue<T>`, and `Stack<T>`.
+
+**Example with List<T>:**
+```csharp
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+numbers.Add(6);
+numbers.Remove(3);
+Console.WriteLine(string.Join(", ", numbers)); // Output: 1, 2, 4, 5, 6
+```
+
+**Example with Dictionary<TKey, TValue>:**
+```csharp
+Dictionary<string, int> ages = new Dictionary<string, int>
+{
+    { "Alice", 30 },
+    { "Bob", 25 }
+};
+ages["Charlie"] = 35;
+
+foreach (var kvp in ages)
+{
+    Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+}
+// Output:
+// Alice: 30
+// Bob: 25
+// Charlie: 35
+```
+
+#### Best Practices
+
+1. **Use Meaningful Names:** Give descriptive names to generic type parameters (e.g., `T` for type, `K` for key, `V` for value).
+2. **Use Constraints Wisely:** Apply constraints to ensure type safety and to provide meaningful error messages at compile time.
+3. **Leverage Built-In Collections:** Use generic collections from the .NET framework, such as `List<T>`, `Dictionary<TKey, TValue>`, and `HashSet<T>`.
+4. **Avoid Overcomplicating:** Keep your generic implementations simple and avoid overengineering.
+
+#### Conclusion
+
+Generics in C# are a powerful feature that enhances code reusability, type safety, and performance. By understanding how to create and use generic classes, methods, interfaces, and constraints, you can write more flexible and efficient code. This chapter covered the basics of generics, common use cases, and best practices for leveraging generics in your C# applications.
+
+
+### Chapter: Numeral Systems in C#
+
+#### Introduction
+
+Numeral systems are a fundamental part of computer science, mathematics, and everyday life, used to represent numbers. In C#, understanding how to work with different numeral systems such as binary, octal, decimal, and hexadecimal can be crucial for various programming tasks. This chapter will explore numeral systems, how to convert between them, and practical applications in C#.
+
+#### Understanding Numeral Systems
+
+A numeral system is a writing system for expressing numbers. The most common numeral systems are:
+
+1. **Binary (Base-2):** Uses two digits, 0 and 1.
+2. **Octal (Base-8):** Uses eight digits, 0 to 7.
+3. **Decimal (Base-10):** Uses ten digits, 0 to 9.
+4. **Hexadecimal (Base-16):** Uses sixteen digits, 0 to 9 and A to F.
+
+#### Binary System
+
+The binary system is the basis for all binary code and is used in virtually all computers and digital devices.
+
+**Example:**
+- Decimal 5 in binary is `101`.
+- Decimal 10 in binary is `1010`.
+
+**Converting Decimal to Binary:**
+```csharp
+int decimalNumber = 10;
+string binary = Convert.ToString(decimalNumber, 2);
+Console.WriteLine(binary); // Output: 1010
+```
+
+**Converting Binary to Decimal:**
+```csharp
+string binaryNumber = "1010";
+int decimalValue = Convert.ToInt32(binaryNumber, 2);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+#### Octal System
+
+The octal system is less common but still used in some computing contexts.
+
+**Example:**
+- Decimal 8 in octal is `10`.
+- Decimal 20 in octal is `24`.
+
+**Converting Decimal to Octal:**
+```csharp
+int decimalNumber = 20;
+string octal = Convert.ToString(decimalNumber, 8);
+Console.WriteLine(octal); // Output: 24
+```
+
+**Converting Octal to Decimal:**
+```csharp
+string octalNumber = "24";
+int decimalValue = Convert.ToInt32(octalNumber, 8);
+Console.WriteLine(decimalValue); // Output: 20
+```
+
+#### Decimal System
+
+The decimal system is the standard system for denoting integer and non-integer numbers.
+
+**Example:**
+- Binary `1010` in decimal is 10.
+- Hexadecimal `A` in decimal is 10.
+
+**Converting Binary to Decimal:**
+```csharp
+string binaryNumber = "1010";
+int decimalValue = Convert.ToInt32(binaryNumber, 2);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+**Converting Hexadecimal to Decimal:**
+```csharp
+string hexNumber = "A";
+int decimalValue = Convert.ToInt32(hexNumber, 16);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+#### Hexadecimal System
+
+The hexadecimal system is widely used in computing to simplify binary coding.
+
+**Example:**
+- Decimal 15 in hexadecimal is `F`.
+- Decimal 255 in hexadecimal is `FF`.
+
+**Converting Decimal to Hexadecimal:**
+```csharp
+int decimalNumber = 255;
+string hex = Convert.ToString(decimalNumber, 16);
+Console.WriteLine(hex); // Output: FF
+```
+
+**Converting Hexadecimal to Decimal:**
+```csharp
+string hexNumber = "FF";
+int decimalValue = Convert.ToInt32(hexNumber, 16);
+Console.WriteLine(decimalValue); // Output: 255
+```
+
+#### Practical Applications
+
+Understanding and converting between different numeral systems is essential for various tasks in programming, including:
+
+1. **Memory Addressing:** Hexadecimal is often used to represent memory addresses.
+2. **Bitwise Operations:** Binary numbers are fundamental for bitwise operations.
+3. **Color Representation:** Hexadecimal is used in web development for colors (e.g., `#FFFFFF` for white).
+4. **Debugging:** Binary and hexadecimal representations are crucial in debugging low-level code.
+
+#### Working with Numeral Systems in C#
+
+**Bitwise Operations:**
+Bitwise operations are operations that directly manipulate bits of binary numbers.
+
+**Example:**
+```csharp
+int a = 5; // Binary: 0101
+int b = 3; // Binary: 0011
+
+int result = a & b; // AND operation: 0001
+Console.WriteLine(result); // Output: 1
+
+result = a | b; // OR operation: 0111
+Console.WriteLine(result); // Output: 7
+
+result = a ^ b; // XOR operation: 0110
+Console.WriteLine(result); // Output: 6
+```
+
+**Formatting Numbers:**
+C# provides ways to format numbers into different numeral systems.
+
+**Example:**
+```csharp
+int number = 255;
+
+string binary = Convert.ToString(number, 2);
+string octal = Convert.ToString(number, 8);
+string hex = Convert.ToString(number, 16);
+
+Console.WriteLine($"Binary: {binary}, Octal: {octal}, Hex: {hex}");
+// Output: Binary: 11111111, Octal: 377, Hex: ff
+```
+
+**Parsing Strings to Numbers:**
+You can parse strings representing numbers in various numeral systems back into integers.
+
+**Example:**
+```csharp
+string binaryStr = "11111111";
+int fromBinary
+
+
+### Chapter: Exception Handling in C#
+
+#### Introduction
+
+Exception handling is a crucial aspect of robust software development. In C#, exceptions provide a structured, uniform, and efficient way to handle errors and other exceptional conditions in your code. This chapter covers the basics of exception handling, how to use `try`, `catch`, `finally` blocks, custom exceptions, and best practices for writing error-handling code.
+
+#### Understanding Exceptions
+
+Exceptions are unexpected conditions or errors that occur during the execution of a program. Common scenarios include dividing by zero, accessing null objects, and out-of-bounds array indexing.
+
+**Example:**
+```csharp
+int x = 10;
+int y = 0;
+int result = x / y; // This will throw a DivideByZeroException
+```
+
+#### The `try`, `catch`, `finally` Blocks
+
+C# provides a structured way to handle exceptions using `try`, `catch`, and `finally` blocks.
+
+**1. The `try` Block:**
+Encapsulates the code that may throw an exception.
+
+**Example:**
+```csharp
+try
+{
+    int x = 10;
+    int y = 0;
+    int result = x / y; // This line will throw an exception
+}
+```
+
+**2. The `catch` Block:**
+Catches and handles exceptions thrown in the `try` block.
+
+**Example:**
+```csharp
+try
+{
+    int x = 10;
+    int y = 0;
+    int result = x / y;
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Cannot divide by zero.");
+}
+```
+
+**3. The `finally` Block:**
+Contains code that will run regardless of whether an exception was thrown or caught. It is typically used for cleanup code.
+
+**Example:**
+```csharp
+try
+{
+    int x = 10;
+    int y = 0;
+    int result = x / y;
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Cannot divide by zero.");
+}
+finally
+{
+    Console.WriteLine("This will always run.");
+}
+```
+
+#### Multiple Catch Blocks
+
+You can use multiple `catch` blocks to handle different types of exceptions.
+
+**Example:**
+```csharp
+try
+{
+    string str = null;
+    Console.WriteLine(str.Length);
+}
+catch (NullReferenceException ex)
+{
+    Console.WriteLine("Object reference not set to an instance of an object.");
+}
+catch (Exception ex)
+{
+    Console.WriteLine("An error occurred: " + ex.Message);
+}
+```
+
+#### Catching All Exceptions
+
+You can use a general `catch` block to handle all types of exceptions, but it is generally a best practice to handle specific exceptions first.
+
+**Example:**
+```csharp
+try
+{
+    int[] arr = new int[5];
+    Console.WriteLine(arr[10]);
+}
+catch (Exception ex)
+{
+    Console.WriteLine("An error occurred: " + ex.Message);
+}
+```
+
+#### Throwing Exceptions
+
+You can manually throw exceptions using the `throw` keyword.
+
+**Example:**
+```csharp
+public void ValidateAge(int age)
+{
+    if (age < 0 || age > 120)
+    {
+        throw new ArgumentOutOfRangeException("Age must be between 0 and 120.");
+    }
+}
+```
+
+#### Custom Exceptions
+
+Creating custom exceptions can provide more meaningful error information.
+
+**Defining a Custom Exception:**
+```csharp
+public class InvalidAgeException : Exception
+{
+    public InvalidAgeException(string message) : base(message)
+    {
+    }
+}
+```
+
+**Throwing a Custom Exception:**
+```csharp
+public void ValidateAge(int age)
+{
+    if (age < 0 || age > 120)
+    {
+        throw new InvalidAgeException("Age must be between 0 and 120.");
+    }
+}
+```
+
+#### The `using` Statement
+
+For resource management, C# provides the `using` statement to ensure that resources are properly disposed of, even if an exception occurs.
+
+**Example:**
+```csharp
+using (StreamReader reader = new StreamReader("file.txt"))
+{
+    string content = reader.ReadToEnd();
+    Console.WriteLine(content);
+}
+```
+
+#### Best Practices for Exception Handling
+
+1. **Use Exceptions for Exceptional Conditions:** Do not use exceptions for regular control flow or minor conditions.
+2. **Catch Specific Exceptions:** Always catch specific exceptions when possible to handle different error conditions appropriately.
+3. **Avoid Silent Failures:** Ensure that exceptions are logged or handled in a way that they do not go unnoticed.
+4. **Use `finally` for Cleanup:** Use the `finally` block to release resources and perform cleanup operations.
+5. **Create Custom Exceptions When Needed:** Define custom exceptions to provide more detailed error information and handle application-specific errors.
+6. **Avoid Catching `System.Exception`:** Catching the base `Exception` type can hide bugs and make debugging difficult.
+
+#### Conclusion
+
+Exception handling is a vital part of creating reliable and maintainable applications in C#. By using `try`, `catch`, and `finally` blocks effectively, defining custom exceptions, and following best practices, you can ensure your code gracefully handles errors and provides a better user experience. This chapter has covered the fundamental concepts of exception handling in C#, offering a foundation for writing robust error-handling code.
+
+
+### Chapter: Numeral Systems in C#
+
+#### Introduction
+
+Numeral systems are the foundation of how we represent and work with numbers in computer science and mathematics. C# provides various ways to handle and manipulate numbers in different numeral systems, including binary, octal, decimal, and hexadecimal. This chapter will cover the basics of these numeral systems, conversion techniques, and practical applications in C# programming.
+
+#### Understanding Numeral Systems
+
+A numeral system is a writing system for expressing numbers. The most common numeral systems include:
+
+1. **Binary (Base-2):** Uses two digits, 0 and 1.
+2. **Octal (Base-8):** Uses eight digits, 0 to 7.
+3. **Decimal (Base-10):** Uses ten digits, 0 to 9.
+4. **Hexadecimal (Base-16):** Uses sixteen digits, 0 to 9 and A to F.
+
+#### Binary System
+
+The binary system is fundamental to computer science because it represents how data is stored and processed in computers.
+
+**Example:**
+- Decimal 5 in binary is `101`.
+- Decimal 10 in binary is `1010`.
+
+**Converting Decimal to Binary:**
+```csharp
+int decimalNumber = 10;
+string binary = Convert.ToString(decimalNumber, 2);
+Console.WriteLine(binary); // Output: 1010
+```
+
+**Converting Binary to Decimal:**
+```csharp
+string binaryNumber = "1010";
+int decimalValue = Convert.ToInt32(binaryNumber, 2);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+#### Octal System
+
+The octal system is less common but still used in some computing contexts, such as Unix file permissions.
+
+**Example:**
+- Decimal 8 in octal is `10`.
+- Decimal 20 in octal is `24`.
+
+**Converting Decimal to Octal:**
+```csharp
+int decimalNumber = 20;
+string octal = Convert.ToString(decimalNumber, 8);
+Console.WriteLine(octal); // Output: 24
+```
+
+**Converting Octal to Decimal:**
+```csharp
+string octalNumber = "24";
+int decimalValue = Convert.ToInt32(octalNumber, 8);
+Console.WriteLine(decimalValue); // Output: 20
+```
+
+#### Decimal System
+
+The decimal system is the standard system for denoting integer and non-integer numbers.
+
+**Example:**
+- Binary `1010` in decimal is 10.
+- Hexadecimal `A` in decimal is 10.
+
+**Converting Binary to Decimal:**
+```csharp
+string binaryNumber = "1010";
+int decimalValue = Convert.ToInt32(binaryNumber, 2);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+**Converting Hexadecimal to Decimal:**
+```csharp
+string hexNumber = "A";
+int decimalValue = Convert.ToInt32(hexNumber, 16);
+Console.WriteLine(decimalValue); // Output: 10
+```
+
+#### Hexadecimal System
+
+The hexadecimal system is widely used in computing to simplify binary coding and is often used in memory addresses and color codes.
+
+**Example:**
+- Decimal 15 in hexadecimal is `F`.
+- Decimal 255 in hexadecimal is `FF`.
+
+**Converting Decimal to Hexadecimal:**
+```csharp
+int decimalNumber = 255;
+string hex = Convert.ToString(decimalNumber, 16);
+Console.WriteLine(hex); // Output: FF
+```
+
+**Converting Hexadecimal to Decimal:**
+```csharp
+string hexNumber = "FF";
+int decimalValue = Convert.ToInt32(hexNumber, 16);
+Console.WriteLine(decimalValue); // Output: 255
+```
+
+#### Practical Applications
+
+Understanding and converting between different numeral systems is essential for various tasks in programming, including:
+
+1. **Memory Addressing:** Hexadecimal is often used to represent memory addresses.
+2. **Bitwise Operations:** Binary numbers are fundamental for bitwise operations.
+3. **Color Representation:** Hexadecimal is used in web development for colors (e.g., `#FFFFFF` for white).
+4. **Debugging:** Binary and hexadecimal representations are crucial in debugging low-level code.
+
+#### Working with Numeral Systems in C#
+
+**Bitwise Operations:**
+Bitwise operations manipulate binary representations of integers directly.
+
+**Example:**
+```csharp
+int a = 5; // Binary: 0101
+int b = 3; // Binary: 0011
+
+int result = a & b; // AND operation: 0001
+Console.WriteLine(result); // Output: 1
+
+result = a | b; // OR operation: 0111
+Console.WriteLine(result); // Output: 7
+
+result = a ^ b; // XOR operation: 0110
+Console.WriteLine(result); // Output: 6
+```
+
+**Formatting Numbers:**
+C# provides ways to format numbers into different numeral systems.
+
+**Example:**
+```csharp
+int number = 255;
+
+string binary = Convert.ToString(number, 2);
+string octal = Convert.ToString(number, 8);
+string hex = Convert.ToString(number, 16);
+
+Console.WriteLine($"Binary: {binary}, Octal: {octal}, Hex: {hex}");
+// Output: Binary: 11111111, Octal: 377, Hex: ff
+```
+
+**Parsing Strings to Numbers:**
+You can parse strings representing numbers in various numeral systems back into integers.
+
+**Example:**
+```csharp
+string binaryStr = "11111111";
+int fromBinary = Convert.ToInt32(binaryStr, 2);
+Console.WriteLine(fromBinary); // Output: 255
+
+string hexStr = "ff";
+int fromHex = Convert.ToInt32(hexStr, 16);
+Console.WriteLine(fromHex); // Output: 255
+```
+
+**Custom Conversions:**
+For more control over numeral system conversions, you can write custom methods.
+
+**Example:**
+```csharp
+public static string DecimalToBase(int decimalNumber, int radix)
+{
+    const string chars = "0123456789ABCDEF";
+    string result = string.Empty;
+
+    while (decimalNumber > 0)
+    {
+        int remainder = decimalNumber % radix;
+        result = chars[remainder] + result;
+        decimalNumber /= radix;
+    }
+
+    return result == string.Empty ? "0" : result;
+}
+
+public static int BaseToDecimal(string number, int radix)
+{
+    const string chars = "0123456789ABCDEF";
+    int result = 0;
+
+    foreach (char c in number)
+    {
+        result = result * radix + chars.IndexOf(c);
+    }
+
+    return result;
+}
+
+// Usage
+string hexValue = DecimalToBase(255, 16);
+int decimalValue = BaseToDecimal("FF", 16);
+
+Console.WriteLine(hexValue); // Output: FF
+Console.WriteLine(decimalValue); // Output: 255
+```
+
+#### Best Practices
+
+1. **Use Built-in Conversions:** Whenever possible, use C#'s built-in conversion methods for clarity and reliability.
+2. **Validate Input:** Always validate input when converting between numeral systems to avoid exceptions and errors.
+3. **Choose Appropriate Representation:** Select the numeral system that best suits your application context (e.g., hexadecimal for memory addresses, binary for bitwise operations).
+4. **Document Custom Conversions:** Clearly document any custom conversion logic to ensure maintainability and readability.
+
+#### Conclusion
+
+Numeral systems are a fundamental concept in computer science and essential for many programming tasks. By understanding and efficiently converting between binary, octal, decimal, and hexadecimal systems in C#, you can handle a wide range of computational problems. This chapter has provided the foundational knowledge and practical techniques for working with numeral systems in C#, enabling you to apply these concepts in your projects effectively.
+
+
+### Chapter: Files API in C#
+
+#### Introduction
+
+Working with files is a common requirement in many applications. The .NET framework provides comprehensive support for file operations through the System.IO namespace. This chapter will cover the basics of the Files API in C#, including reading from and writing to files, handling file and directory information, and best practices for file operations.
+
+#### Understanding the System.IO Namespace
+
+The System.IO namespace contains types that allow reading and writing to files and data streams, and provides basic file and directory support. Key classes include:
+
+- `File`: Provides static methods for creating, copying, deleting, moving, and opening files.
+- `FileInfo`: Provides instance methods for creating, copying, deleting, moving, and opening files.
+- `Directory`: Provides static methods for creating, moving, and enumerating through directories.
+- `DirectoryInfo`: Provides instance methods for creating, moving, and enumerating through directories.
+- `StreamReader` and `StreamWriter`: Classes for reading from and writing to text files.
+- `FileStream`: Provides a stream for file operations.
+
+#### Reading from Files
+
+To read data from files, you can use `StreamReader` or `File.ReadAllText` for simple scenarios.
+
+**Example: Reading a file using StreamReader:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (StreamReader reader = new StreamReader(path))
+        {
+            string content = reader.ReadToEnd();
+            Console.WriteLine(content);
+        }
+    }
+}
+```
+
+**Example: Reading a file using File.ReadAllText:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+        string content = File.ReadAllText(path);
+        Console.WriteLine(content);
+    }
+}
+```
+
+#### Writing to Files
+
+To write data to files, you can use `StreamWriter` or `File.WriteAllText`.
+
+**Example: Writing to a file using StreamWriter:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (StreamWriter writer = new StreamWriter(path))
+        {
+            writer.WriteLine("Hello, world!");
+        }
+    }
+}
+```
+
+**Example: Writing to a file using File.WriteAllText:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+        File.WriteAllText(path, "Hello, world!");
+    }
+}
+```
+
+#### Working with File Information
+
+The `FileInfo` class provides instance methods for working with files, such as getting file information and manipulating files.
+
+**Example: Getting file information using FileInfo:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+        FileInfo fileInfo = new FileInfo(path);
+
+        Console.WriteLine($"File Name: {fileInfo.Name}");
+        Console.WriteLine($"File Size: {fileInfo.Length} bytes");
+        Console.WriteLine($"Creation Time: {fileInfo.CreationTime}");
+    }
+}
+```
+
+#### Working with Directories
+
+The `Directory` and `DirectoryInfo` classes allow you to create, move, and enumerate directories and subdirectories.
+
+**Example: Creating a directory:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "exampleDir";
+
+        if (!Directory.Exists(path))
+        {
+            Directory.CreateDirectory(path);
+            Console.WriteLine("Directory created successfully.");
+        }
+        else
+        {
+            Console.WriteLine("Directory already exists.");
+        }
+    }
+}
+```
+
+**Example: Enumerating directories:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "exampleDir";
+
+        if (Directory.Exists(path))
+        {
+            string[] directories = Directory.GetDirectories(path);
+            foreach (string dir in directories)
+            {
+                Console.WriteLine(dir);
+            }
+        }
+        else
+        {
+            Console.WriteLine("Directory does not exist.");
+        }
+    }
+}
+```
+
+#### File and Directory Operations
+
+The `File` and `Directory` classes provide methods for common operations such as copying, moving, and deleting files and directories.
+
+**Example: Copying a file:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string sourcePath = "example.txt";
+        string destinationPath = "copy_example.txt";
+
+        File.Copy(sourcePath, destinationPath, true);
+        Console.WriteLine("File copied successfully.");
+    }
+}
+```
+
+**Example: Deleting a directory:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "exampleDir";
+
+        if (Directory.Exists(path))
+        {
+            Directory.Delete(path, true);
+            Console.WriteLine("Directory deleted successfully.");
+        }
+        else
+        {
+            Console.WriteLine("Directory does not exist.");
+        }
+    }
+}
+```
+
+#### Working with File Streams
+
+The `FileStream` class provides a stream for file operations, which is useful for reading and writing bytes to files.
+
+**Example: Writing to a file using FileStream:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.bin";
+
+        using (FileStream fs = new FileStream(path, FileMode.Create))
+        {
+            byte[] data = new byte[] { 0x0, 0x1, 0x2, 0x3 };
+            fs.Write(data, 0, data.Length);
+        }
+    }
+}
+```
+
+**Example: Reading from a file using FileStream:**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.bin";
+
+        using (FileStream fs = new FileStream(path, FileMode.Open))
+        {
+            byte[] data = new byte[fs.Length];
+            fs.Read(data, 0, data.Length);
+
+            foreach (byte b in data)
+            {
+                Console.Write(b + " ");
+            }
+        }
+    }
+}
+```
+
+#### Best Practices for File Operations
+
+1. **Always Close File Handles:** Use `using` statements to ensure file handles are closed properly, even if an exception occurs.
+2. **Check for File and Directory Existence:** Use `File.Exists` and `Directory.Exists` before performing operations to avoid exceptions.
+3. **Handle Exceptions:** Properly handle exceptions such as `FileNotFoundException`, `IOException`, and `UnauthorizedAccessException`.
+4. **Use Absolute Paths:** When possible, use absolute paths to avoid confusion and potential errors.
+5. **Optimize for Performance:** For large file operations, consider using buffered streams and async methods.
+
+#### Conclusion
+
+File operations are essential for many applications, and the .NET framework provides powerful tools for handling these tasks through the System.IO namespace. By understanding how to read from, write to, and manipulate files and directories in C#, you can develop robust and efficient file-handling code. This chapter has covered the fundamental concepts and practices for working with the Files API in C#, providing a solid foundation for further exploration and application.
+
+
+### Chapter: Stacks in C#
+
+#### Introduction
+
+Stacks are a fundamental data structure in computer science, known for their Last In, First Out (LIFO) behavior. This chapter will explore the concept of stacks, their implementation in C#, and their practical applications. You will learn how to use the `Stack<T>` class provided by the .NET Framework and how to implement a stack from scratch to gain a deeper understanding of its inner workings.
+
+#### What is a Stack?
+
+A stack is a collection of elements that supports two primary operations:
+
+1. **Push**: Adds an element to the top of the stack.
+2. **Pop**: Removes and returns the top element from the stack.
+
+Additional operations typically include:
+
+- **Peek**: Returns the top element without removing it.
+- **IsEmpty**: Checks if the stack is empty.
+
+**Example of Stack Operations:**
+- Push(1), Push(2), Push(3)
+- Pop() -> 3
+- Peek() -> 2
+- Pop() -> 2
+- Pop() -> 1
+
+#### Using the `Stack<T>` Class in C#
+
+The .NET Framework provides a built-in `Stack<T>` class within the `System.Collections.Generic` namespace, which is a generic implementation of the stack data structure.
+
+**Example: Basic Stack Operations**
+```csharp
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        Stack<int> stack = new Stack<int>();
+
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+
+        Console.WriteLine(stack.Pop()); // Output: 3
+        Console.WriteLine(stack.Peek()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 1
+    }
+}
+```
+
+#### Implementing a Stack from Scratch
+
+To understand the internal workings of a stack, let's implement one from scratch using a linked list.
+
+**Example: Stack Implementation Using a Linked List**
+```csharp
+using System;
+
+public class Node<T>
+{
+    public T Data { get; set; }
+    public Node<T> Next { get; set; }
+
+    public Node(T data)
+    {
+        Data = data;
+        Next = null;
+    }
+}
+
+public class Stack<T>
+{
+    private Node<T> top;
+
+    public Stack()
+    {
+        top = null;
+    }
+
+    public void Push(T data)
+    {
+        Node<T> newNode = new Node<T>(data);
+        newNode.Next = top;
+        top = newNode;
+    }
+
+    public T Pop()
+    {
+        if (IsEmpty())
+            throw new InvalidOperationException("Stack is empty.");
+
+        T value = top.Data;
+        top = top.Next;
+        return value;
+    }
+
+    public T Peek()
+    {
+        if (IsEmpty())
+            throw new InvalidOperationException("Stack is empty.");
+
+        return top.Data;
+    }
+
+    public bool IsEmpty()
+    {
+        return top == null;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Stack<int> stack = new Stack<int>();
+
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+
+        Console.WriteLine(stack.Pop()); // Output: 3
+        Console.WriteLine(stack.Peek()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 1
+    }
+}
+```
+
+#### Applications of Stacks
+
+Stacks are used in various applications due to their LIFO nature. Some common uses include:
+
+1. **Expression Evaluation**: Used in parsing and evaluating expressions, including infix, postfix (Reverse Polish Notation), and prefix notations.
+2. **Function Call Management**: The call stack manages function calls in most programming languages.
+3. **Backtracking Algorithms**: Used in algorithms like depth-first search (DFS) and solving puzzles (e.g., maze solving, the Tower of Hanoi).
+4. **Undo Mechanisms**: Many applications implement undo functionality using stacks to track changes.
+
+**Example: Validating Parentheses Using a Stack**
+```csharp
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static bool IsValidParentheses(string s)
+    {
+        Stack<char> stack = new Stack<char>();
+
+        foreach (char c in s)
+        {
+            if (c == '(' || c == '{' || c == '[')
+            {
+                stack.Push(c);
+            }
+            else
+            {
+                if (stack.Count == 0)
+                    return false;
+
+                char top = stack.Pop();
+                if ((c == ')' && top != '(') ||
+                    (c == '}' && top != '{') ||
+                    (c == ']' && top != '['))
+                {
+                    return false;
+                }
+            }
+        }
+
+        return stack.Count == 0;
+    }
+
+    static void Main()
+    {
+        string expression = "{[()]}";
+        Console.WriteLine(IsValidParentheses(expression)); // Output: True
+
+        expression = "{[(])}";
+        Console.WriteLine(IsValidParentheses(expression)); // Output: False
+    }
+}
+```
+
+#### Advanced Topics
+
+**Generic Stacks**: As demonstrated earlier, you can use generics to create a stack that can store any data type.
+
+**Thread-Safe Stacks**: For concurrent programming, consider using `ConcurrentStack<T>` from the `System.Collections.Concurrent` namespace.
+
+**Custom Stack Implementation with Array**: Another way to implement a stack is using an array, which can be more efficient in terms of memory usage.
+
+**Example: Stack Implementation Using an Array**
+```csharp
+using System;
+
+public class ArrayStack<T>
+{
+    private T[] elements;
+    private int top;
+    private int capacity;
+
+    public ArrayStack(int capacity)
+    {
+        this.capacity = capacity;
+        elements = new T[capacity];
+        top = -1;
+    }
+
+    public void Push(T data)
+    {
+        if (top == capacity - 1)
+            throw new InvalidOperationException("Stack is full.");
+
+        elements[++top] = data;
+    }
+
+    public T Pop()
+    {
+        if (IsEmpty())
+            throw new InvalidOperationException("Stack is empty.");
+
+        return elements[top--];
+    }
+
+    public T Peek()
+    {
+        if (IsEmpty())
+            throw new InvalidOperationException("Stack is empty.");
+
+        return elements[top];
+    }
+
+    public bool IsEmpty()
+    {
+        return top == -1;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        ArrayStack<int> stack = new Array
+
+Stack<int>(3);
+
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+
+        Console.WriteLine(stack.Pop()); // Output: 3
+        Console.WriteLine(stack.Peek()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 2
+        Console.WriteLine(stack.Pop()); // Output: 1
+
+        // This will throw an exception because the stack is empty
+        // Console.WriteLine(stack.Pop());
+    }
+}
+```
+
+#### Best Practices for Using Stacks
+
+1. **Choose the Right Implementation**: Use the built-in `Stack<T>` for general purposes, and consider custom implementations for special needs.
+2. **Handle Exceptions**: Always handle potential exceptions such as `InvalidOperationException` when popping from or peeking into an empty stack.
+3. **Capacity Management**: If using an array-based stack, ensure proper capacity management to avoid overflow.
+4. **Thread Safety**: Use `ConcurrentStack<T>` for multi-threaded applications to ensure thread safety.
+5. **Use Generics**: Leverage generics to create versatile and reusable stack implementations.
+
+#### Conclusion
+
+Stacks are an essential data structure in computer science, useful for a variety of applications due to their LIFO nature. This chapter has covered the basics of stacks, how to use the `Stack<T>` class in C#, and how to implement a stack from scratch using linked lists and arrays. By understanding and utilizing stacks effectively, you can solve many computational problems and manage data efficiently in your applications.
+
+
+### Chapter: Streams in C#
+
+#### Introduction
+
+Streams are a crucial part of I/O (input/output) operations in C#. They provide a way to read and write data to various sources like files, network sockets, memory, and other data streams. This chapter will cover the fundamentals of streams in C#, including types of streams, basic operations, and practical examples to help you understand and use streams effectively.
+
+#### Understanding Streams
+
+A stream is an abstract representation of a sequence of bytes. It allows data to be read from or written to a specific source sequentially. Streams can be categorized into two main types:
+
+1. **Input Streams**: Used for reading data.
+2. **Output Streams**: Used for writing data.
+
+The `System.IO` namespace in .NET provides various classes for working with streams.
+
+#### Types of Streams
+
+1. **FileStream**: Used for reading from and writing to files.
+2. **MemoryStream**: Used for reading and writing data in memory.
+3. **BufferedStream**: Provides a buffered layer on top of another stream to improve read and write performance.
+4. **NetworkStream**: Used for network operations.
+5. **CryptoStream**: Provides a stream for cryptographic transformations.
+6. **StreamReader** and **StreamWriter**: Simplify reading from and writing to streams using character encoding.
+7. **BinaryReader** and **BinaryWriter**: Facilitate reading and writing primitive data types in binary format.
+
+#### Basic Stream Operations
+
+##### Reading from a Stream
+
+**Example: Reading from a File using FileStream and StreamReader**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
+        using (StreamReader reader = new StreamReader(fs))
+        {
+            string content = reader.ReadToEnd();
+            Console.WriteLine(content);
+        }
+    }
+}
+```
+
+##### Writing to a Stream
+
+**Example: Writing to a File using FileStream and StreamWriter**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (FileStream fs = new FileStream(path, FileMode.Create, FileAccess.Write))
+        using (StreamWriter writer = new StreamWriter(fs))
+        {
+            writer.WriteLine("Hello, world!");
+        }
+    }
+}
+```
+
+#### MemoryStream
+
+`MemoryStream` is useful for temporary storage of data in memory. It can be used for scenarios where you need a non-persistent, in-memory data store.
+
+**Example: Using MemoryStream**
+```csharp
+using System;
+using System.IO;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        byte[] byteArray = Encoding.UTF8.GetBytes("Hello, MemoryStream!");
+
+        using (MemoryStream ms = new MemoryStream(byteArray))
+        {
+            using (StreamReader reader = new StreamReader(ms))
+            {
+                string content = reader.ReadToEnd();
+                Console.WriteLine(content);
+            }
+        }
+    }
+}
+```
+
+#### BufferedStream
+
+`BufferedStream` enhances the performance of read and write operations by reducing the number of read and write operations to the underlying data source.
+
+**Example: Using BufferedStream**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+        using (BufferedStream bs = new BufferedStream(fs))
+        using (StreamWriter writer = new StreamWriter(bs))
+        {
+            writer.WriteLine("This is a buffered stream example.");
+        }
+
+        using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
+        using (BufferedStream bs = new BufferedStream(fs))
+        using (StreamReader reader = new StreamReader(bs))
+        {
+            string content = reader.ReadToEnd();
+            Console.WriteLine(content);
+        }
+    }
+}
+```
+
+#### NetworkStream
+
+`NetworkStream` is used for network communication, allowing data to be read from and written to network sockets.
+
+**Example: Using NetworkStream**
+```csharp
+using System;
+using System.IO;
+using System.Net.Sockets;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string server = "example.com";
+        int port = 80;
+
+        using (TcpClient client = new TcpClient(server, port))
+        using (NetworkStream ns = client.GetStream())
+        using (StreamWriter writer = new StreamWriter(ns))
+        using (StreamReader reader = new StreamReader(ns))
+        {
+            writer.WriteLine("GET / HTTP/1.1");
+            writer.WriteLine($"Host: {server}");
+            writer.WriteLine("Connection: close");
+            writer.WriteLine();
+            writer.Flush();
+
+            string response = reader.ReadToEnd();
+            Console.WriteLine(response);
+        }
+    }
+}
+```
+
+#### CryptoStream
+
+`CryptoStream` is used for linking data streams to cryptographic transformations.
+
+**Example: Using CryptoStream**
+```csharp
+using System;
+using System.IO;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string original = "Here is some data to encrypt!";
+
+        using (Aes aes = Aes.Create())
+        {
+            byte[] key = aes.Key;
+            byte[] iv = aes.IV;
+
+            using (MemoryStream msEncrypt = new MemoryStream())
+            {
+                using (CryptoStream csEncrypt = new CryptoStream(msEncrypt, aes.CreateEncryptor(key, iv), CryptoStreamMode.Write))
+                using (StreamWriter swEncrypt = new StreamWriter(csEncrypt))
+                {
+                    swEncrypt.Write(original);
+                }
+
+                byte[] encrypted = msEncrypt.ToArray();
+                Console.WriteLine("Encrypted: " + Convert.ToBase64String(encrypted));
+            }
+        }
+    }
+}
+```
+
+#### StreamReader and StreamWriter
+
+`StreamReader` and `StreamWriter` simplify reading from and writing to streams using character encoding.
+
+**Example: Using StreamReader and StreamWriter**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.txt";
+
+        using (StreamWriter writer = new StreamWriter(path))
+        {
+            writer.WriteLine("Hello, StreamWriter!");
+        }
+
+        using (StreamReader reader = new StreamReader(path))
+        {
+            string content = reader.ReadToEnd();
+            Console.WriteLine(content);
+        }
+    }
+}
+```
+
+#### BinaryReader and BinaryWriter
+
+`BinaryReader` and `BinaryWriter` are used for reading and writing primitive data types in binary format.
+
+**Example: Using BinaryReader and BinaryWriter**
+```csharp
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        string path = "example.bin";
+
+        using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.Create)))
+        {
+            writer.Write(1.25);
+            writer.Write("Hello, BinaryWriter!");
+            writer.Write(42);
+        }
+
+        using (BinaryReader reader = new BinaryReader(File.Open(path, FileMode.Open)))
+        {
+            double a = reader.ReadDouble();
+            string b = reader.ReadString();
+            int c = reader.ReadInt32();
+
+            Console.WriteLine($"{a}, {b}, {c}");
+        }
+    }
+}
+```
+
+#### Best Practices for Using Streams
+
+1. **Always Close Streams**: Use `using` statements to ensure streams are closed properly and resources are released.
+2. **Handle Exceptions**: Properly handle exceptions, especially I/O exceptions, to make your code robust.
+3. **Use Buffered Streams**: When dealing with large data, use buffered streams to improve performance.
+4. **Be Aware of Encoding**: When working with text streams, always specify the correct encoding to avoid data corruption.
+5. **Thread Safety**: Ensure thread safety when streams are accessed from multiple threads.
+
+#### Conclusion
+
+Streams are an essential part of I/O operations in C#. Understanding how to use different types of streams and their applications will enable you to handle data effectively in various scenarios. This chapter has covered the fundamental concepts and provided practical examples of using streams in C#. With this knowledge, you can confidently implement file, memory, network, and cryptographic operations in your applications.
+
+
+### Hashing, Encryption, and Decryption
+
+#### Introduction
+
+In the realm of computer security, hashing, encryption, and decryption are fundamental techniques used to protect data. Each of these methods serves different purposes and has distinct characteristics. This chapter will provide a comprehensive overview of these concepts, explaining their uses, differences, and importance in ensuring data security.
+
+#### Hashing
+
+Hashing is the process of converting an input (or message) into a fixed-size string of bytes. The output, typically called a hash code or hash value, is unique to each unique input. Hash functions are designed to be fast and to produce a significantly different hash value even for small changes in the input.
+
+**Characteristics of Hashing:**
+1. **Deterministic**: The same input will always produce the same hash.
+2. **Fixed Output Length**: Regardless of the input size, the output hash length is always the same.
+3. **Fast Computation**: Efficiently computes the hash value.
+4. **Pre-image Resistance**: Difficult to reverse the process and obtain the original input from its hash.
+5. **Collision Resistance**: Hard to find two different inputs that produce the same hash output.
+6. **Avalanche Effect**: A small change in the input drastically changes the hash.
+
+**Common Hash Functions:**
+- MD5 (Message Digest Algorithm 5)
+- SHA-1 (Secure Hash Algorithm 1)
+- SHA-256 (Secure Hash Algorithm 256-bit)
+- SHA-3 (Secure Hash Algorithm 3)
+
+**Example of Hashing in C#:**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string input = "Hello, World!";
+        using (SHA256 sha256 = SHA256.Create())
+        {
+            byte[] hashBytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(input));
+            string hash = BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
+            Console.WriteLine($"Hash: {hash}");
+        }
+    }
+}
+```
+
+#### Encryption and Decryption
+
+Encryption is the process of converting plaintext (readable data) into ciphertext (encoded data) to prevent unauthorized access. Decryption is the reverse process, where the ciphertext is converted back into plaintext.
+
+**Types of Encryption:**
+
+1. **Symmetric Encryption**: The same key is used for both encryption and decryption.
+   - Examples: AES (Advanced Encryption Standard), DES (Data Encryption Standard)
+   - **Pros**: Fast and efficient for large data.
+   - **Cons**: Key distribution and management can be challenging.
+
+2. **Asymmetric Encryption**: Uses a pair of keys—a public key for encryption and a private key for decryption.
+   - Examples: RSA (Rivest-Shamir-Adleman), ECC (Elliptic Curve Cryptography)
+   - **Pros**: Enhanced security for key exchange and digital signatures.
+   - **Cons**: Slower than symmetric encryption and requires more computational resources.
+
+**Symmetric Encryption Example in C#:**
+```csharp
+using System;
+using System.IO;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string plaintext = "Hello, World!";
+        string key = "thisisaverysecurekey12345"; // Must be 16, 24, or 32 bytes for AES
+
+        using (Aes aes = Aes.Create())
+        {
+            aes.Key = Encoding.UTF8.GetBytes(key);
+            aes.IV = new byte[16]; // Initialization vector
+
+            // Encrypt
+            ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
+            using (MemoryStream ms = new MemoryStream())
+            using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Write))
+            using (StreamWriter writer = new StreamWriter(cs))
+            {
+                writer.Write(plaintext);
+            }
+
+            byte[] ciphertext = ms.ToArray();
+            Console.WriteLine($"Ciphertext: {Convert.ToBase64String(ciphertext)}");
+
+            // Decrypt
+            ICryptoTransform decryptor = aes.CreateDecryptor(aes.Key, aes.IV);
+            using (MemoryStream msDecrypt = new MemoryStream(ciphertext))
+            using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read))
+            using (StreamReader reader = new StreamReader(csDecrypt))
+            {
+                string decryptedText = reader.ReadToEnd();
+                Console.WriteLine($"Decrypted Text: {decryptedText}");
+            }
+        }
+    }
+}
+```
+
+**Asymmetric Encryption Example in C#:**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string plaintext = "Hello, World!";
+
+        using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider())
+        {
+            // Generate keys
+            string publicKey = rsa.ToXmlString(false);
+            string privateKey = rsa.ToXmlString(true);
+
+            // Encrypt
+            rsa.FromXmlString(publicKey);
+            byte[] encryptedData = rsa.Encrypt(Encoding.UTF8.GetBytes(plaintext), false);
+            Console.WriteLine($"Encrypted: {Convert.ToBase64String(encryptedData)}");
+
+            // Decrypt
+            rsa.FromXmlString(privateKey);
+            byte[] decryptedData = rsa.Decrypt(encryptedData, false);
+            string decryptedText = Encoding.UTF8.GetString(decryptedData);
+            Console.WriteLine($"Decrypted: {decryptedText}");
+        }
+    }
+}
+```
+
+#### Differences Between Hashing and Encryption
+
+1. **Purpose**:
+   - Hashing: Verifies data integrity by producing a fixed-size hash.
+   - Encryption: Protects data confidentiality by converting plaintext into unreadable ciphertext.
+
+2. **Reversibility**:
+   - Hashing: One-way process, not designed to be reversed.
+   - Encryption: Two-way process, can be reversed using decryption.
+
+3. **Use Cases**:
+   - Hashing: Storing passwords, data integrity checks, digital signatures.
+   - Encryption: Securing sensitive data, communication, file protection.
+
+#### Conclusion
+
+Hashing, encryption, and decryption are essential techniques in data security. Understanding their differences, use cases, and implementations can help you protect data effectively in various scenarios. This chapter has provided an overview of these concepts with practical examples in C# to illustrate their usage.
+
+### Advanced Topics in Hashing, Encryption, and Decryption
+
+#### Introduction
+
+Beyond the basic concepts of hashing, encryption, and decryption, there are several advanced topics and techniques that enhance security and offer more robust solutions. This section will cover some of these advanced topics, including hashing with salt, HMAC (Hash-based Message Authentication Code), digital signatures, public key infrastructure (PKI), and advanced encryption techniques.
+
+#### Hashing with Salt
+
+**Hashing with salt** involves adding a unique random value (salt) to the input before hashing it. This prevents attackers from using precomputed tables (like rainbow tables) to crack hashed passwords.
+
+**Example: Hashing with Salt in C#**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string password = "supersecurepassword";
+        byte[] salt = GenerateSalt();
+
+        byte[] saltedHash = HashPasswordWithSalt(password, salt);
+        Console.WriteLine($"Salt: {Convert.ToBase64String(salt)}");
+        Console.WriteLine($"Salted Hash: {Convert.ToBase64String(saltedHash)}");
+    }
+
+    static byte[] GenerateSalt()
+    {
+        using (var rng = new RNGCryptoServiceProvider())
+        {
+            byte[] salt = new byte[16];
+            rng.GetBytes(salt);
+            return salt;
+        }
+    }
+
+    static byte[] HashPasswordWithSalt(string password, byte[] salt)
+    {
+        using (var sha256 = SHA256.Create())
+        {
+            byte[] passwordBytes = Encoding.UTF8.GetBytes(password);
+            byte[] passwordWithSalt = new byte[passwordBytes.Length + salt.Length];
+
+            Buffer.BlockCopy(passwordBytes, 0, passwordWithSalt, 0, passwordBytes.Length);
+            Buffer.BlockCopy(salt, 0, passwordWithSalt, passwordBytes.Length, salt.Length);
+
+            return sha256.ComputeHash(passwordWithSalt);
+        }
+    }
+}
+```
+
+#### HMAC (Hash-based Message Authentication Code)
+
+**HMAC** is a specific type of message authentication code (MAC) involving a cryptographic hash function and a secret key. It provides data integrity and authenticity checks.
+
+**Example: HMAC in C#**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string message = "Hello, HMAC!";
+        string key = "supersecretkey";
+
+        byte[] hmacSha256 = ComputeHMACSHA256(message, key);
+        Console.WriteLine($"HMAC-SHA256: {Convert.ToBase64String(hmacSha256)}");
+    }
+
+    static byte[] ComputeHMACSHA256(string message, string key)
+    {
+        using (var hmac = new HMACSHA256(Encoding.UTF8.GetBytes(key)))
+        {
+            return hmac.ComputeHash(Encoding.UTF8.GetBytes(message));
+        }
+    }
+}
+```
+
+#### Digital Signatures
+
+**Digital signatures** ensure the authenticity and integrity of a message, software, or digital document. They use asymmetric cryptography, where a private key signs the data, and a corresponding public key verifies the signature.
+
+**Example: Digital Signatures in C#**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string message = "This is a secure message.";
+
+        using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider())
+        {
+            string privateKey = rsa.ToXmlString(true);
+            string publicKey = rsa.ToXmlString(false);
+
+            byte[] signature = SignData(message, privateKey);
+            bool isVerified = VerifyData(message, signature, publicKey);
+
+            Console.WriteLine($"Signature: {Convert.ToBase64String(signature)}");
+            Console.WriteLine($"Signature Verified: {isVerified}");
+        }
+    }
+
+    static byte[] SignData(string message, string privateKey)
+    {
+        using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider())
+        {
+            rsa.FromXmlString(privateKey);
+            byte[] data = Encoding.UTF8.GetBytes(message);
+            return rsa.SignData(data, new SHA256CryptoServiceProvider());
+        }
+    }
+
+    static bool VerifyData(string message, byte[] signature, string publicKey)
+    {
+        using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider())
+        {
+            rsa.FromXmlString(publicKey);
+            byte[] data = Encoding.UTF8.GetBytes(message);
+            return rsa.VerifyData(data, new SHA256CryptoServiceProvider(), signature);
+        }
+    }
+}
+```
+
+#### Public Key Infrastructure (PKI)
+
+**Public Key Infrastructure (PKI)** is a framework for managing digital keys and certificates. It enables secure data exchange, authentication, and verification of digital identities. PKI components include:
+
+- **Certificate Authority (CA)**: Issues and manages digital certificates.
+- **Registration Authority (RA)**: Verifies the identity of entities requesting certificates.
+- **Digital Certificates**: Contain the public key and information about the entity.
+- **Public and Private Keys**: Used for encryption, decryption, and digital signatures.
+
+**Example: Generating a Self-Signed Certificate in C#**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
+
+class Program
+{
+    static void Main()
+    {
+        var rsa = RSA.Create(2048);
+        var request = new CertificateRequest("cn=example.com", rsa, HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1);
+
+        var certificate = request.CreateSelfSigned(DateTimeOffset.Now, DateTimeOffset.Now.AddYears(1));
+        Console.WriteLine($"Certificate: {certificate.Thumbprint}");
+    }
+}
+```
+
+#### Advanced Encryption Techniques
+
+**Advanced encryption techniques** often involve combining multiple encryption methods or using more sophisticated algorithms to enhance security.
+
+1. **Hybrid Encryption**: Combines symmetric and asymmetric encryption. Symmetric encryption encrypts the actual data, while asymmetric encryption encrypts the symmetric key. This approach leverages the efficiency of symmetric encryption and the security of asymmetric encryption.
+
+**Example: Hybrid Encryption in C#**
+```csharp
+using System;
+using System.IO;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string original = "Here is some data to encrypt!";
+
+        // Generate a symmetric key
+        using (Aes aes = Aes.Create())
+        {
+            byte[] symmetricKey = aes.Key;
+            byte[] iv = aes.IV;
+
+            // Encrypt the data with the symmetric key
+            byte[] encryptedData;
+            using (MemoryStream msEncrypt = new MemoryStream())
+            {
+                using (CryptoStream csEncrypt = new CryptoStream(msEncrypt, aes.CreateEncryptor(symmetricKey, iv), CryptoStreamMode.Write))
+                {
+                    using (StreamWriter swEncrypt = new StreamWriter(csEncrypt))
+                    {
+                        swEncrypt.Write(original);
+                    }
+                    encryptedData = msEncrypt.ToArray();
+                }
+            }
+
+            // Encrypt the symmetric key with RSA
+            using (RSACryptoServiceProvider rsa = new RSACryptoServiceProvider())
+            {
+                byte[] encryptedSymmetricKey = rsa.Encrypt(symmetricKey, false);
+
+                // Decrypt the symmetric key with RSA
+                byte[] decryptedSymmetricKey = rsa.Decrypt(encryptedSymmetricKey, false);
+
+                // Decrypt the data with the decrypted symmetric key
+                using (Aes aesDecrypt = Aes.Create())
+                {
+                    aesDecrypt.Key = decryptedSymmetricKey;
+                    aesDecrypt.IV = iv;
+                    using (MemoryStream msDecrypt = new MemoryStream(encryptedData))
+                    {
+                        using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, aesDecrypt.CreateDecryptor(), CryptoStreamMode.Read))
+                        {
+                            using (StreamReader srDecrypt = new StreamReader(csDecrypt))
+                            {
+                                string decryptedText = srDecrypt.ReadToEnd();
+                                Console.WriteLine($"Decrypted Text: {decryptedText}");
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
+2. **Elliptic Curve Cryptography (ECC)**: ECC is an advanced form of asymmetric encryption that offers similar security levels to RSA but with smaller key sizes, resulting in faster computations and lower resource usage.
+
+**Example: ECC in C#**
+```csharp
+using System;
+using System.Security.Cryptography;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        string message = "Hello, ECC!";
+
+        using (ECDsaCng ecdsa = new ECDsaCng())
+        {
+            byte[] data = Encoding.UTF8.GetBytes(message);
+            byte[] signature = ecdsa.SignData(data);
+
+            Console.WriteLine($"Signature: {Convert.ToBase64String(signature)}");
+
+            bool isVerified = ecdsa.VerifyData(data, signature);
+            Console.WriteLine($"Signature Verified: {isVerified}");
+        }
+    }
+}
+```
+
+#### Conclusion
+
+This advanced section has explored more sophisticated techniques and concepts in hashing, encryption, and decryption. Understanding and implementing these methods can significantly enhance the security of your applications. From hashing with salt to hybrid encryption and public key infrastructure, these advanced topics provide robust solutions for protecting sensitive data and ensuring secure communication.
+
+
+### Advanced C# Topics
+
+#### Introduction
+
+C# is a versatile and powerful programming language, and understanding its advanced features can greatly enhance your software development capabilities. This chapter covers a range of advanced topics in C#, including asynchronous programming, reflection, dependency injection, LINQ (Language Integrated Query), parallel programming, and advanced patterns such as SOLID principles and design patterns.
+
+#### Asynchronous Programming
+
+Asynchronous programming in C# allows you to write code that doesn't block the main thread, providing a more responsive user interface and better performance in I/O-bound and network-bound operations.
+
+**Key Concepts:**
+- **`async` and `await` keywords**: Simplify asynchronous code.
+- **`Task` and `Task<T>`**: Represent asynchronous operations.
+- **Asynchronous Methods**: Methods that perform asynchronous operations and return `Task` or `Task<T>`.
+
+**Example: Asynchronous Method in C#**
+```csharp
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+
+class Program
+{
+    static async Task Main()
+    {
+        string url = "https://jsonplaceholder.typicode.com/todos/1";
+        string data = await FetchDataAsync(url);
+        Console.WriteLine(data);
+    }
+
+    static async Task<string> FetchDataAsync(string url)
+    {
+        using (HttpClient client = new HttpClient())
+        {
+            return await client.GetStringAsync(url);
+        }
+    }
+}
+```
+
+#### Reflection
+
+Reflection allows you to inspect and interact with metadata about your program, such as types, methods, properties, and attributes, at runtime.
+
+**Key Concepts:**
+- **`System.Reflection` namespace**: Provides classes to work with reflection.
+- **Type Information**: Retrieve information about types using `Type` objects.
+- **Dynamic Invocation**: Invoke methods and access properties dynamically.
+
+**Example: Using Reflection in C#**
+```csharp
+using System;
+using System.Reflection;
+
+class Program
+{
+    static void Main()
+    {
+        Type type = typeof(SampleClass);
+        MethodInfo method = type.GetMethod("Greet");
+
+        object instance = Activator.CreateInstance(type);
+        method.Invoke(instance, new object[] { "John" });
+    }
+}
+
+public class SampleClass
+{
+    public void Greet(string name)
+    {
+        Console.WriteLine($"Hello, {name}!");
+    }
+}
+```
+
+#### Dependency Injection
+
+Dependency Injection (DI) is a design pattern used to achieve Inversion of Control (IoC) between classes and their dependencies. It enhances modularity and testability.
+
+**Key Concepts:**
+- **Constructor Injection**: Dependencies are provided through the constructor.
+- **Property Injection**: Dependencies are set through public properties.
+- **Method Injection**: Dependencies are passed through method parameters.
+- **DI Containers**: Frameworks like Autofac, Unity, or the built-in .NET Core DI container.
+
+**Example: Dependency Injection in C#**
+```csharp
+using System;
+using Microsoft.Extensions.DependencyInjection;
+
+class Program
+{
+    static void Main()
+    {
+        var serviceProvider = new ServiceCollection()
+            .AddTransient<IMessageService, ConsoleMessageService>()
+            .BuildServiceProvider();
+
+        var greeter = new Greeter(serviceProvider.GetService<IMessageService>());
+        greeter.Greet("John");
+    }
+}
+
+public interface IMessageService
+{
+    void SendMessage(string message);
+}
+
+public class ConsoleMessageService : IMessageService
+{
+    public void SendMessage(string message)
+    {
+        Console.WriteLine(message);
+    }
+}
+
+public class Greeter
+{
+    private readonly IMessageService _messageService;
+
+    public Greeter(IMessageService messageService)
+    {
+        _messageService = messageService;
+    }
+
+    public void Greet(string name)
+    {
+        _messageService.SendMessage($"Hello, {name}!");
+    }
+}
+```
+
+#### LINQ (Language Integrated Query)
+
+LINQ is a powerful query language integrated into C#. It allows you to query collections, databases, XML, and other data sources using a concise and readable syntax.
+
+**Key Concepts:**
+- **Query Syntax**: SQL-like syntax for writing queries.
+- **Method Syntax**: Uses lambda expressions and extension methods.
+- **Deferred Execution**: Queries are executed when the result is enumerated.
+
+**Example: LINQ in C#**
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+        var evenNumbers = from n in numbers
+                          where n % 2 == 0
+                          select n;
+
+        foreach (var number in evenNumbers)
+        {
+            Console.WriteLine(number);
+        }
+    }
+}
+```
+
+#### Parallel Programming
+
+Parallel programming in C# allows you to execute multiple tasks concurrently, making better use of multicore processors and improving performance for compute-bound operations.
+
+**Key Concepts:**
+- **`Parallel` Class**: Provides methods like `Parallel.For`, `Parallel.ForEach`.
+- **Tasks and Task Parallel Library (TPL)**: Manage and run asynchronous tasks.
+- **Data Parallelism**: Perform the same operation on elements in a collection concurrently.
+
+**Example: Parallel.For in C#**
+```csharp
+using System;
+using System.Threading.Tasks;
+
+class Program
+{
+    static void Main()
+    {
+        Parallel.For(0, 10, i =>
+        {
+            Console.WriteLine($"Processing {i} on thread {Task.CurrentId}");
+        });
+    }
+}
+```
+
+#### Advanced Patterns: SOLID Principles
+
+SOLID principles are design principles that make software designs more understandable, flexible, and maintainable.
+
+**Key Concepts:**
+- **Single Responsibility Principle (SRP)**: A class should have one and only one reason to change.
+- **Open/Closed Principle (OCP)**: Software entities should be open for extension but closed for modification.
+- **Liskov Substitution Principle (LSP)**: Subtypes must be substitutable for their base types.
+- **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use.
+- **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+**Example: Applying SOLID Principles in C#**
+```csharp
+// SRP: Separate concerns
+public class Order
+{
+    public void AddOrder() { /*...*/ }
+}
+
+public class Invoice
+{
+    public void GenerateInvoice() { /*...*/ }
+}
+
+// OCP: Extend functionality without modifying existing code
+public abstract class Shape
+{
+    public abstract double Area();
+}
+
+public class Circle : Shape
+{
+    public double Radius { get; set; }
+    public override double Area() => Math.PI * Radius * Radius;
+}
+
+// LSP: Derived classes can be used in place of base classes
+public class Rectangle : Shape
+{
+    public double Width { get; set; }
+    public double Height { get; set; }
+    public override double Area() => Width * Height;
+}
+
+// ISP: Clients use only methods they need
+public interface IPrinter
+{
+    void Print();
+}
+
+public interface IScanner
+{
+    void Scan();
+}
+
+public class MultiFunctionPrinter : IPrinter, IScanner
+{
+    public void Print() { /*...*/ }
+    public void Scan() { /*...*/ }
+}
+
+// DIP: Depend on abstractions, not concretions
+public interface IMessageService
+{
+    void SendMessage(string message);
+}
+
+public class EmailService : IMessageService
+{
+    public void SendMessage(string message) { /*...*/ }
+}
+
+public class Notification
+{
+    private readonly IMessageService _messageService;
+    public Notification(IMessageService messageService) { _messageService = messageService; }
+    public void Notify(string message) { _messageService.SendMessage(message); }
+}
+```
+
+#### Design Patterns
+
+Design patterns are general reusable solutions to common problems in software design. They provide a template for writing code that is maintainable and scalable.
+
+**Key Patterns:**
+- **Creational Patterns**: Singleton, Factory, Abstract Factory, Builder, Prototype.
+- **Structural Patterns**: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
+- **Behavioral Patterns**: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor.
+
+**Example: Singleton Pattern in C#**
+```csharp
+public class Singleton
+{
+    private static Singleton _instance;
+
+    private Singleton() { }
+
+    public static Singleton Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = new Singleton();
+            }
+            return _instance;
+        }
+    }
+}
+```
+
+#### Conclusion
+
+This chapter has explored several advanced topics in C#, providing insights and practical examples on how to leverage these features for more efficient and maintainable code. From asynchronous programming and reflection to dependency injection, LINQ, parallel programming, SOLID principles, and design patterns, these advanced concepts are essential tools for any C# developer looking to build robust and scalable applications.
+
+
 
 
 
